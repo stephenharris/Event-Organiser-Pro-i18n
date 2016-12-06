@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:55:11+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:55:15+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -479,7 +479,7 @@ msgstr ""
 #: includes/functions.php:757
 #: includes/shortcodes.php:357
 msgid "From"
-msgstr ""
+msgstr "Frá"
 
 #: includes/shortcodes.php:132
 msgid "Booking #%s could not be cancelled."
