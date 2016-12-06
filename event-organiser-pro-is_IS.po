@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:57:23+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:57:27+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -843,7 +843,7 @@ msgstr ""
 #: includes/form-customiser/class-eo-booking-form-element.php:1011
 #: includes/form-customiser/class-eo-booking-form-element.php:1020
 msgid "Time"
-msgstr "Tími"
+msgstr "Klukkan"
 
 #: admin/bookings.php:587
 msgid "Back to table view"
