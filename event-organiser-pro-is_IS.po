@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:56:49+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:57:01+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -819,7 +819,7 @@ msgstr ""
 #: admin/includes/event_booking_table.php:56
 #: admin/includes/shortcode_popup.php:64
 msgid "View"
-msgstr ""
+msgstr "Sýn"
 
 #: admin/bookings.php:955
 msgid "Searching for booking ID &#8220;%s&#8221;"
