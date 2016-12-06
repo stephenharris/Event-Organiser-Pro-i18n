@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:11:36+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:11:45+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1987,7 +1987,7 @@ msgstr ""
 
 #: admin/settings.php:230
 msgid "France"
-msgstr ""
+msgstr "Frakkland"
 
 #: admin/bookings.php:406
 #: admin/bookings.php:545
