@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:13:25+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:13:28+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -2132,7 +2132,7 @@ msgstr ""
 #: includes/form-customiser/class-eo-booking-form-factory.php:193
 #: admin/js/booking-form.js:570
 msgid "Book"
-msgstr ""
+msgstr "Skrá"
 
 #: admin/edit.php:90
 #: admin/includes/venues.php:280
