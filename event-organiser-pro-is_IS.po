@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:44:29+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:45:25+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -31,7 +31,7 @@ msgstr "Uppselt"
 
 #: admin/settings.php:130
 msgid "You can either sell tickets for individual dates of an event, or sell tickets for the entire series - for example, places on a course"
-msgstr ""
+msgstr "Annaðhvort er hægt að selja miða fyrir eistaka daga viðburðar, eða fyrir alla röðina – t.d. ef um fast sæti er að ræða"
 
 #: admin/includes/event_booking_table.php:682
 msgid "In the e-mail subject & body you can use the following tags"
