@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:04:55+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:05:01+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1405,7 +1405,7 @@ msgstr "Staðfestingarhnappur"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:21
 msgid "Create New Form"
-msgstr ""
+msgstr "Búa til nýtt form"
 
 #: admin/includes/shortcode_popup.php:148
 #: includes/shortcodes.php:305
