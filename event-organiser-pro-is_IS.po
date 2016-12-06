@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:49:49+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:49:56+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -86,7 +86,7 @@ msgstr "Hægt er að nota eftirfarandi uppfyllingartákn"
 
 #: admin/settings.php:45
 msgid "Manage bookings"
-msgstr ""
+msgstr "Sýsla með skráningar"
 
 #: includes/register.php:513
 msgid "There has been an error with Event Organiser Pro. The <code>eo_booking_ticketmeta</code> table is missing. Please try re-installing the plugin."
