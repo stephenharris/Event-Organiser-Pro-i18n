@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:07:25+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:07:40+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1646,7 +1646,7 @@ msgstr "Antispam"
 
 #: admin/includes/shortcode_popup.php:25
 msgid "Events starting before"
-msgstr ""
+msgstr "Viðburðir sem hefjast fyrr en"
 
 #: admin/bookings.php:766
 msgid "Booking Date"
