@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:56:43+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:56:47+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -797,7 +797,7 @@ msgstr ""
 #: admin/includes/shortcode_popup.php:140
 #: includes/functions.php:731
 msgid "Venue"
-msgstr ""
+msgstr "Staðsetning"
 
 #: templates/eo-email-template-blue.php:31
 #: templates/eo-email-template-distinct.php:31
