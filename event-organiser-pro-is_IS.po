@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:50:52+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:51:02+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -94,7 +94,7 @@ msgstr "Villa hefur komið upp í Event Organiser Pro. <code>eo_booking_ticketme
 
 #: admin/settings.php:168
 msgid "Notify me when"
-msgstr ""
+msgstr "Láta vita þegar"
 
 #: admin/settings.php:321
 msgid "You can <a href=\"%s\" target=\"_blank\">create your own e-mail templates</a> and add them to your theme."
