@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:58:36+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:58:40+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -985,7 +985,7 @@ msgstr "Titill"
 #: admin/js/booking-form.js:620
 #: admin/js/booking-form.js:621
 msgid "Phone"
-msgstr ""
+msgstr "Sími"
 
 #: admin/bookings.php:480
 msgid "The occurrence date for which this booking was made no longer exists."
