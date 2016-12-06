@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:53:25+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:53:31+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -272,7 +272,7 @@ msgstr "Röðin í heild"
 
 #: includes/register.php:54
 msgid "View Booking"
-msgstr ""
+msgstr "Skoða skráningu"
 
 #: admin/settings.php:215
 msgid "PayPal allows you to tailor the booking payment page to you site. For more information, <a href=\"%s\" target=\"_blank\">see this tutorial</a>"
