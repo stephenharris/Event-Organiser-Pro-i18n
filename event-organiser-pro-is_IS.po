@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:11:45+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:11:52+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -2006,7 +2006,7 @@ msgstr ""
 
 #: includes/booking-actions.php:309
 msgid "Booking Confirmed"
-msgstr ""
+msgstr "Skráning staðfest"
 
 #: admin/includes/event_ticket_table.php:52
 msgid "Remove"
