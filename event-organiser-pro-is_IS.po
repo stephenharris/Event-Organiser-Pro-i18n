@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:06:37+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:06:41+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1596,7 +1596,7 @@ msgstr ""
 #: includes/form-customiser/class-eo-booking-form-element.php:905
 #: templates/booking-form/eo-booking-form-name.php:33
 msgid "First Name"
-msgstr ""
+msgstr "Fornafn"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:937
 #: includes/form-customiser/class-eo-booking-form-element.php:946
