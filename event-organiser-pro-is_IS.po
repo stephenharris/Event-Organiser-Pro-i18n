@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:06:55+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:07:00+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1611,7 +1611,7 @@ msgstr "Viðburðir sem hefjast síðar en"
 
 #: includes/register.php:52
 msgid "New Bookings"
-msgstr ""
+msgstr "Nýjar skráningar"
 
 #: includes/class-eo-user-attending-widget.php:15
 msgid "Displays a list of events a user is attending"
