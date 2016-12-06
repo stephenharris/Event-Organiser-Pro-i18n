@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:55:22+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:55:30+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -523,7 +523,7 @@ msgstr ""
 #: templates/booking-form/eo-booking-form-address.php:61
 #: admin/js/booking-form.js:408
 msgid "City"
-msgstr ""
+msgstr "Borg"
 
 #: admin/settings.php:278
 msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
