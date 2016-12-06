@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:09:17+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:09:27+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: admin/includes/shortcode_popup.php:10
 msgid "Venue Map"
-msgstr ""
+msgstr "Kort yfir staðsetningar"
 
 #: includes/booking-form-handler.php:70
 msgid "<strong>Error:</strong> This event has non-free tickets and no gateway has been enabled. Please enable a gateway in <em>Settings > Event Organiser > Bookings </em>. This notice only appears to admins."
