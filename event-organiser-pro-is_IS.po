@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:05:18+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:05:22+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1464,7 +1464,7 @@ msgstr "Ítalía"
 #: includes/shortcodes.php:192
 #: templates/event-booking-history.php:17
 msgid "Event"
-msgstr ""
+msgstr "Viðburður"
 
 #: admin/js/booking-form.js:1853
 msgid "Form element deleted"
