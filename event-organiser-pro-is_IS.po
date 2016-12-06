@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:00:34+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:00:40+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1140,7 +1140,7 @@ msgstr "Taka val af öllu"
 #: includes/form-customiser/class-eo-booking-form-element.php:906
 #: templates/booking-form/eo-booking-form-name.php:53
 msgid "Last Name"
-msgstr ""
+msgstr "Kenninafn"
 
 #: admin/includes/shortcode_popup.php:8
 msgid "Event List"
