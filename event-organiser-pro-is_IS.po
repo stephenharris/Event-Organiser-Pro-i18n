@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:58:40+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:58:43+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -973,7 +973,7 @@ msgstr ""
 
 #: admin/settings.php:240
 msgid "United States"
-msgstr ""
+msgstr "Bandaríkin"
 
 #: includes/class-eo-user-attending-widget.php:24
 #: admin/js/booking-form.js:129
