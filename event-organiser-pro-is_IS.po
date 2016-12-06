@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T21:02:07+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:02:11+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1227,7 +1227,7 @@ msgstr "Sækja miða"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:63
 msgid "Delete Form"
-msgstr ""
+msgstr "Eða formi"
 
 #: includes/booking-actions.php:455
 msgid "You have not selected any tickets"
