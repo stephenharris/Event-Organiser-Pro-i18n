@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:47:01+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:47:24+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -52,7 +52,7 @@ msgstr "Allir flokkar"
 #: admin/includes/venues.php:326
 #: admin/includes/venues.php:327
 msgid "Set featured image"
-msgstr ""
+msgstr "Velja einkennismynd"
 
 #: admin/js/booking-form.js:758
 msgid "If checked a drop-down select menu is used for selecting a date, rather than a datepicker."
