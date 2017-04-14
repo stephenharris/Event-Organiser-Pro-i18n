@@ -1,0 +1,2205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
+"PO-Revision-Date: 2016-12-06T21:14:23+00:00\n"
+"Language: is_IS\n"
+"Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
+
+#: admin/bookings.php:700
+msgid "Edit email"
+msgstr "Breyta vefpóstfangi"
+
+#: admin/js/booking-form.js:130
+msgid "Error classes"
+msgstr "Villuflokkar"
+
+#: admin/bookings.php:657
+msgid "User not found"
+msgstr "Notandi finnst ekki"
+
+#: includes/template-tags.php:68
+#: templates/eo-ticket-picker.php:79
+msgid "Sold out"
+msgstr "Uppselt"
+
+#: admin/settings.php:130
+msgid "You can either sell tickets for individual dates of an event, or sell tickets for the entire series - for example, places on a course"
+msgstr "Annaðhvort er hægt að selja miða fyrir eistaka daga viðburðar, eða fyrir alla röðina – t.d. ef um fast sæti er að ræða"
+
+#: admin/includes/event_booking_table.php:682
+msgid "In the e-mail subject & body you can use the following tags"
+msgstr "Þú getur notað eftirfarandi tög í efni og meginmál bréfsins"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:148
+msgid "Advanced Fields"
+msgstr "Sérstök svæði"
+
+#: admin/edit.php:124
+msgid "Spaces:"
+msgstr "Sæti:"
+
+#: includes/functions.php:711
+msgid "All categories"
+msgstr "Allir flokkar"
+
+#: admin/includes/venues.php:326
+#: admin/includes/venues.php:327
+msgid "Set featured image"
+msgstr "Velja einkennismynd"
+
+#: admin/js/booking-form.js:758
+msgid "If checked a drop-down select menu is used for selecting a date, rather than a datepicker."
+msgstr "Ef merkt er við hér er fellival notad til að velja dag, fremur en dagatal."
+
+#: includes/register.php:49
+#: includes/register.php:108
+msgid "Add New"
+msgstr "Bæta nýju við"
+
+#: admin/includes/shortcode_popup.php:66
+msgid "Month"
+msgstr "Mánuður"
+
+#: includes/register.php:112
+#: includes/register.php:117
+msgid "Booking Forms"
+msgstr "Skráningarform"
+
+#: includes/booking-actions.php:399
+msgid "Please provide a valid email address."
+msgstr "Gefðu upp gilt vefpóstfang."
+
+#: admin/includes/event_booking_table.php:166
+msgid "%s ago"
+msgstr "fyrir %s síðan"
+
+#: admin/settings.php:341
+msgid "You can use the following placeholders"
+msgstr "Hægt er að nota eftirfarandi uppfyllingartákn"
+
+#: admin/settings.php:45
+msgid "Manage bookings"
+msgstr "Sýsla með skráningar"
+
+#: includes/register.php:513
+msgid "There has been an error with Event Organiser Pro. The <code>eo_booking_ticketmeta</code> table is missing. Please try re-installing the plugin."
+msgstr "Villa hefur komið upp í Event Organiser Pro. <code>eo_booking_ticketmeta</code> vantar. Reyndu að setja viðbótina upp að nýju."
+
+#: admin/settings.php:168
+msgid "Notify me when"
+msgstr "Láta vita þegar"
+
+#: admin/settings.php:321
+msgid "You can <a href=\"%s\" target=\"_blank\">create your own e-mail templates</a> and add them to your theme."
+msgstr ""
+
+#: admin/bookings.php:915
+msgid "Show gateway response"
+msgstr ""
+
+#: admin/settings.php:27
+#: includes/class-eo-export-csv.php:163
+#: includes/class-eo-export-csv.php:309
+#: admin/js/booking-form.js:583
+#: admin/js/booking-form.js:584
+msgid "E-mail"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:185
+msgid "You do not have permission to edit the booking forms"
+msgstr ""
+
+#: includes/booking-actions.php:752
+msgid "This booking can no longer be cancelled."
+msgstr ""
+
+#: admin/edit.php:59
+msgid "Add Ticket"
+msgstr "Nýr miði"
+
+#: admin/settings.php:187
+#: gateways/class-eo-gateway.php:207
+msgid "Sandbox Mode"
+msgstr ""
+
+#: admin/bookings.php:728
+msgid "Other Recent bookings"
+msgstr ""
+
+#: includes/register.php:113
+msgid "View Booking Form"
+msgstr ""
+
+#: includes/booking-actions.php:384
+msgid "Please select an event."
+msgstr ""
+
+#: admin/includes/templates/booking-filters.php:47
+msgid "Status:"
+msgstr ""
+
+#: includes/register.php:51
+msgid "Edit Bookings"
+msgstr "Vinna með skráningu"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:921
+msgid "Please provide a first name"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1209
+msgid "Please enter a city"
+msgstr ""
+
+#: admin/bookings.php:27
+#: admin/bookings.php:30
+#: admin/bookings.php:378
+#: admin/calendar.php:11
+#: admin/settings.php:9
+#: admin/settings.php:124
+#: includes/register.php:53
+#: includes/register.php:58
+#: admin/js/booking-form.js:103
+msgid "Bookings"
+msgstr "Skráningar"
+
+#: includes/booking-actions.php:44
+msgid "New event booking"
+msgstr "Ný skráning á viðburð"
+
+#: admin/js/booking-form.js:501
+msgid "Include second name"
+msgstr ""
+
+#: admin/includes/venues.php:10
+msgid "Custom Fields"
+msgstr "Sérsniðnir reitir"
+
+#: admin/settings.php:222
+msgid "PayPal Local Site"
+msgstr ""
+
+#: includes/shortcodes.php:311
+msgid "All states"
+msgstr ""
+
+#: admin/settings.php:231
+msgid "Germany"
+msgstr "Þýskaland"
+
+#: includes/booking-actions.php:50
+#: includes/booking-actions.php:315
+msgid "Username:"
+msgstr "Notandanafn"
+
+#: admin/bookings.php:668
+#: admin/includes/templates/booking-filters.php:62
+msgid "Bookee:"
+msgstr "Viðskiptavinur"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:621
+#: admin/js/booking-form.js:739
+msgid "Textarea"
+msgstr "Textareitur"
+
+#: admin/includes/shortcode_popup.php:38
+msgid "Events ending before"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:513
+msgid "Confirm Bookings"
+msgstr "Staðfesta skráningar"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:235
+msgid "Open shorcut help"
+msgstr ""
+
+#: admin/bookings.php:138
+msgid "You do not have permission to delete bookings"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:273
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:58
+msgid "<strong>ERROR</strong>: Some fields are not valid"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-view.php:184
+msgid "You have already made a booking for this event."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:692
+#: admin/js/booking-form.js:431
+msgid "Checkbox"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1212
+msgid "Please enter a country"
+msgstr ""
+
+#: admin/edit.php:109
+msgid "Ticket name:"
+msgstr "Heiti miða"
+
+#: admin/includes/templates/booking-filters.php:84
+msgid "Booked between:"
+msgstr ""
+
+#: includes/class-eo-export-csv.php:164
+msgid "Ticket Quantity"
+msgstr "Fjöldi miða"
+
+#: admin/settings.php:237
+msgid "Spain"
+msgstr "Spánn"
+
+#: templates/user-attending-widget-event-list.php:49
+msgid "You are not currently registered for any events"
+msgstr ""
+
+#: admin/includes/venues.php:132
+msgid "Add New Custom Field:"
+msgstr ""
+
+#: admin/settings.php:126
+msgid "Entire series"
+msgstr "Röðin í heild"
+
+#: includes/register.php:54
+msgid "View Booking"
+msgstr "Skoða skráningu"
+
+#: admin/settings.php:215
+msgid "PayPal allows you to tailor the booking payment page to you site. For more information, <a href=\"%s\" target=\"_blank\">see this tutorial</a>"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:477
+msgid "Go to the next page"
+msgstr "Fara á næstu síðu"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:205
+msgid "Move selected form element up and down the form"
+msgstr ""
+
+#: admin/bookings.php:661
+msgid "No account"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:112
+msgid "Leave blank for venue of current event (if this is being used on an event's page"
+msgstr ""
+
+#: templates/event-booking-history.php:15
+msgid "Booking ref"
+msgstr ""
+
+#: admin/js/booking-form.js:1001
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: admin/bookings.php:846
+#: includes/class-eo-export-csv.php:166
+msgid "Booking Notes"
+msgstr ""
+
+#: admin/bookings.php:268
+#: admin/bookings.php:277
+#: includes/booking-actions.php:222
+msgid "Thank you for your booking"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:41
+msgid "You can use relative dates, e.g. 'now', 'next Tuesday'"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:74
+msgid "Restore booking"
+msgstr ""
+
+#: admin/settings.php:139
+msgid "After a booking is made, redirect the user "
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:215
+msgid "Move form element out from under parent element"
+msgstr ""
+
+#: templates/eo-booking-form.php:19
+msgid "Bookings are no longer available for this event."
+msgstr ""
+
+#: includes/register.php:298
+msgid "Hide dates"
+msgstr "Fela daga"
+
+#: admin/settings.php:160
+msgid "Yes, account is optional"
+msgstr ""
+
+#: admin/bookings.php:772
+#: includes/class-eo-export-csv.php:157
+#: includes/class-eo-export-csv.php:303
+msgid "Booking Reference"
+msgstr ""
+
+#: admin/js/booking-form.js:569
+msgid "Submit"
+msgstr "Senda"
+
+#: admin/edit.php:133
+#: admin/edit.php:152
+#: admin/edit.php:198
+msgid "See this page for more details"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:608
+msgid "1. Select custom fields"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1034
+#: includes/form-customiser/class-eo-booking-form-element.php:1043
+#: admin/js/booking-form.js:632
+#: admin/js/booking-form.js:633
+msgid "Website"
+msgstr "Vefur"
+
+#: admin/includes/event_booking_table.php:644
+msgid "3. Download"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:11
+msgid "Event Search"
+msgstr "Leit í viðburðum"
+
+#: includes/class-eo-user-attending-widget.php:16
+msgid "Events user is attending"
+msgstr "Viðburður sem notandi sækir"
+
+#: includes/register.php:114
+msgid "Search Booking Forms"
+msgstr ""
+
+#: admin/edit.php:190
+msgid "Select the dates of the event for which you want this ticket to be sold. (Default: all dates)."
+msgstr ""
+
+#: admin/includes/event_booking_table.php:428
+msgid "No bookings"
+msgstr "Engar skráningar"
+
+#: includes/booking-form-handler.php:188
+msgid "Password Lost and Found"
+msgstr ""
+
+#: admin/js/booking-form.js:757
+msgid "Date selection"
+msgstr "Dagaval"
+
+#: includes/booking-form-handler.php:188
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:28
+msgid "Import form"
+msgstr ""
+
+#: admin/settings.php:338
+msgid "In the e-mail template you can use booking information placeholders"
+msgstr ""
+
+#: includes/shortcodes.php:289
+msgid "All cities"
+msgstr "Allar borgir"
+
+#: admin/includes/event_booking_table.php:457
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:148
+msgid "Standard Fields"
+msgstr ""
+
+#: admin/js/booking-form.js:494
+msgid "Bookee name"
+msgstr ""
+
+#: admin/calendar.php:61
+msgid "View bookings"
+msgstr ""
+
+#: admin/js/booking-form.js:131
+msgid "Notice classes"
+msgstr ""
+
+#: admin/bookings.php:142
+msgid "Error in deleting booking."
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:21
+msgid "Create a new form"
+msgstr ""
+
+#: admin/edit.php:147
+msgid "Ticket availability"
+msgstr ""
+
+#: admin/bookings.php:458
+msgid "The following bookings could not be automatically confirmed. Please confirm these manually:"
+msgstr ""
+
+#: includes/booking-actions.php:459
+msgid "The tickets you have selected are no longer available."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:401
+msgid "File is not a json file"
+msgstr ""
+
+#: admin/bookings.php:410
+#: admin/includes/event_ticket_table.php:25
+#: includes/booking-actions.php:96
+#: includes/email.php:422
+#: templates/eo-ticket-picker.php:27
+msgid "Price"
+msgstr "Verð"
+
+#: includes/email.php:423
+msgid "Ref."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1207
+msgid "Please enter a street address."
+msgstr ""
+
+#: includes/functions.php:757
+#: includes/shortcodes.php:357
+msgid "From"
+msgstr "Frá"
+
+#: includes/shortcodes.php:132
+msgid "Booking #%s could not be cancelled."
+msgstr ""
+
+#: admin/edit.php:44
+msgid "Price (%s)"
+msgstr "Verð (%s)"
+
+#: includes/form-customiser/class-eo-booking-form-element-view.php:175
+msgid "What is %d + %d?"
+msgstr ""
+
+#: admin/bookings.php:941
+msgid "Bookings for event &#8220;%s&#8221; (%s)"
+msgstr ""
+
+#: admin/settings.php:205
+msgid "PayPal page style"
+msgstr ""
+
+#: includes/register.php:110
+msgid "Edit Booking Forms"
+msgstr ""
+
+#: admin/settings.php:233
+msgid "Mexico"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:82
+msgid "Delete Booking"
+msgstr ""
+
+#: admin/bookings.php:950
+msgid "Bookings for user &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:144
+#: includes/form-customiser/class-eo-booking-form-element.php:1148
+#: includes/shortcodes.php:283
+#: templates/booking-form/eo-booking-form-address.php:61
+#: admin/js/booking-form.js:408
+msgid "City"
+msgstr "Borg"
+
+#: admin/settings.php:278
+msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:408
+msgid "Invalid json file"
+msgstr ""
+
+#: admin/bookings.php:825
+#: admin/calendar.php:101
+#: templates/event-booking-history.php:19
+msgid "Amount"
+msgstr ""
+
+#: includes/booking-actions.php:97
+#: templates/eo-ticket-picker.php:28
+msgid "Quantity"
+msgstr ""
+
+#: admin/calendar.php:119
+msgid "Capacity"
+msgstr ""
+
+#: admin/settings.php:161
+msgid "Yes but do not register an account"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:78
+#: admin/includes/shortcode_popup.php:116
+msgid "Include tooltip"
+msgstr ""
+
+#: includes/utility-functions.php:476
+msgid "Dismiss this notice"
+msgstr ""
+
+#: templates/booking-form/eo-booking-form-address.php:24
+#: admin/js/booking-form.js:406
+msgid "Street address"
+msgstr ""
+
+#: admin/includes/templates/booking-filters.php:65
+msgid "*logged-in users only"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:63
+msgid "Delete this form"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:681
+#: admin/settings.php:340
+msgid "E-mailing Bookees"
+msgstr ""
+
+#: templates/eo-booking-form.php:31
+msgid "This event has sold out."
+msgstr ""
+
+#: admin/bookings.php:693
+#: includes/booking-actions.php:51
+#: includes/booking-actions.php:316
+msgid "Email:"
+msgstr ""
+
+#: includes/register.php:115
+msgid "No Booking Forms found"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-view.php:190
+msgid "You are logged in as <strong>%s</strong>. <a href=\"%s\">Not you?</a>"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:24
+msgid "Select a form to edit:"
+msgstr ""
+
+#: admin/js/booking-form.js:1701
+msgid "Booking form saved"
+msgstr ""
+
+#: includes/booking-actions.php:463
+msgid "Please select a ticket."
+msgstr ""
+
+#: admin/bookings.php:676
+#: admin/bookings.php:699
+#: admin/edit.php:86
+msgid "Edit"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:813
+msgid "Antispam maths question"
+msgstr ""
+
+#: includes/booking-actions.php:403
+msgid "This email is already registered, please choose another one or log-in with that account"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:764
+msgid "Section Break"
+msgstr ""
+
+#: admin/settings.php:267
+msgid "This will appear on the booking form, informing the bookee on how to make payment."
+msgstr ""
+
+#: admin/settings.php:25
+msgid "PayPal"
+msgstr ""
+
+#: admin/settings.php:175
+msgid "A booking is confirmed"
+msgstr ""
+
+#: admin/js/booking-form.js:1847
+msgid "This form element cannot be deleted"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:45
+msgid "This form element will not appear if the user is logged in."
+msgstr ""
+
+#: admin/js/booking-form.js:415
+#: admin/js/booking-form.js:422
+#: admin/js/booking-form.js:444
+#: admin/js/booking-form.js:523
+#: admin/js/booking-form.js:540
+#: admin/js/booking-form.js:559
+#: admin/js/booking-form.js:611
+#: admin/js/booking-form.js:659
+#: admin/js/booking-form.js:680
+#: admin/js/booking-form.js:713
+#: admin/js/booking-form.js:748
+msgid "Description"
+msgstr ""
+
+#: admin/settings.php:328
+msgid "Preview E-mail"
+msgstr ""
+
+#: admin/edit.php:193
+msgid "Ticket dates"
+msgstr ""
+
+#: admin/settings.php:370
+msgid "Preview Email"
+msgstr ""
+
+#: includes/booking-actions.php:492
+msgid "The payment gateway you have chosen is invalid"
+msgstr ""
+
+#: includes/shortcodes.php:123
+msgid "Booking #%s has been successfully cancelled."
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:16
+msgid "Display a list of events"
+msgstr ""
+
+#: admin/settings.php:226
+msgid "Austria"
+msgstr ""
+
+#: includes/booking-actions.php:52
+#: includes/booking-actions.php:317
+#: admin/js/booking-form.js:102
+msgid "Booking form"
+msgstr ""
+
+#: includes/booking-form-handler.php:159
+msgid "Already registered? <a href=\"#\" class=\"eo-booking-login-toggle\">Log-in</a>."
+msgstr ""
+
+#: admin/edit.php:148
+msgid "You can specify a date when this ticket will go on sale, and when it is no longer available for purchase. Leave blank for no restriction. Tickets will automatically come off sale when the event starts"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1211
+msgid "Please enter a zip / postal code"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:32
+msgid "No bookings found."
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:109
+msgid "This form element allows you to enter any HTML, to be displayed on the form"
+msgstr ""
+
+#: admin/bookings.php:409
+#: admin/bookings.php:840
+#: admin/calendar.php:100
+#: templates/event-booking-history.php:18
+msgid "Tickets"
+msgstr ""
+
+#: admin/settings.php:227
+msgid "Belgium"
+msgstr ""
+
+#: admin/settings.php:126
+msgid "Particular Occurrence"
+msgstr ""
+
+#: admin/settings.php:236
+msgid "Poland"
+msgstr ""
+
+#: admin/settings.php:332
+msgid "Booking email"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:348
+msgid "Delete cancelled bookings"
+msgstr ""
+
+#: includes/functions.php:736
+msgid "All venues"
+msgstr "Allar staðsetningar"
+
+#: templates/eo-booking-form.php:45
+msgid "Only logged in users can place bookings"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1147
+msgid "Address Line 2"
+msgstr ""
+
+#: includes/class-eo-export-csv.php:167
+#: includes/class-eo-export-csv.php:313
+msgid "Booking Date (UTC)"
+msgstr "Skráningardagur (UTC)"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:966
+msgid "Entered value is not numeric."
+msgstr "Gildi er ekki tölugildi."
+
+#: admin/includes/templates/booking-filters.php:29
+msgid "Select a date"
+msgstr "Veldu dag"
+
+#: admin/bookings.php:787
+msgid "Change"
+msgstr "Breyta"
+
+#: admin/includes/shortcode_popup.php:45
+#: admin/includes/shortcode_popup.php:84
+msgid "Events in categories"
+msgstr ""
+
+#: admin/settings.php:263
+msgid "Offline Payment Instructions"
+msgstr ""
+
+#: admin/settings.php:186
+#: admin/settings.php:253
+#: gateways/class-eo-gateway.php:206
+msgid "Live"
+msgstr ""
+
+#: admin/includes/venues.php:339
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/js/booking-form.js:126
+msgid "Booking Form Name"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:140
+#: includes/functions.php:731
+msgid "Venue"
+msgstr "Staðsetning"
+
+#: templates/eo-email-template-blue.php:31
+#: templates/eo-email-template-distinct.php:31
+#: templates/eo-email-template-event-organiser.php:31
+#: templates/eo-email-template-green.php:31
+#: templates/eo-email-template-orange.php:31
+msgid "Powered by"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:678
+msgid "Message"
+msgstr ""
+
+#: templates/eo-booking-form.php:53
+#: templates/eo-booking-form.php:59
+msgid "Username / Email"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:56
+#: admin/includes/shortcode_popup.php:64
+msgid "View"
+msgstr "Sýn"
+
+#: admin/bookings.php:955
+msgid "Searching for booking ID &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:168
+msgid "Y/m/d"
+msgstr "d.m.Y"
+
+#: admin/js/booking-form.js:442
+#: admin/js/booking-form.js:657
+#: admin/js/booking-form.js:678
+#: admin/js/booking-form.js:711
+msgid "Options"
+msgstr "Valkostir"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:159
+msgid "Toggle Panel: %s"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1011
+#: includes/form-customiser/class-eo-booking-form-element.php:1020
+msgid "Time"
+msgstr "Klukkan"
+
+#: admin/bookings.php:587
+msgid "Back to table view"
+msgstr ""
+
+#: includes/bookable/class-event.php:97
+#: includes/bookable/class-event.php:145
+msgid "Ticket with ID %s does not exist."
+msgstr ""
+
+#: features/bootstrap/FeatureContext.php:434
+msgid "Main Sidebar"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:159
+#: includes/bookings.php:331
+#: includes/class-eo-export-csv.php:264
+#: includes/class-eo-export-csv.php:386
+msgid "Y/m/d g:i:s A"
+msgstr "d.m.Y g.i.s. a"
+
+#: admin/includes/event_booking_table.php:450
+msgid "Go to the first page"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "None"
+msgstr "Enginn"
+
+#: admin/settings.php:46
+msgid "Manage other events' bookings"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:418
+msgid "No confirmed attendees"
+msgstr ""
+
+#: admin/includes/venues.php:136
+#: admin/includes/venues.php:210
+msgctxt "meta name"
+msgid "Name"
+msgstr "Nafn"
+
+#: admin/includes/venues.php:192
+#: includes/form-customiser/class-eo-booking-form-element.php:899
+#: includes/form-customiser/class-eo-booking-form-element.php:904
+#: includes/form-customiser/class-eo-booking-form-factory.php:123
+#: admin/js/booking-form.js:124
+#: admin/js/booking-form.js:493
+msgid "Name"
+msgstr "Nafn"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1208
+msgid "Please enter the second line of the address."
+msgstr ""
+
+#: includes/utility-functions.php:477
+msgid "Dismiss"
+msgstr "Hafna"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:230
+msgid "Close modal"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:518
+msgid "Delete Bookings"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:225
+msgid "Deleted selected element"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:3
+msgid "You can add additional fields to your booking form using the buttons to the right, and then arrange them by dragging the fields. Click the added form field to reveal its options "
+msgstr ""
+
+#: admin/includes/event_booking_table.php:484
+msgid "Go to the last page"
+msgstr ""
+
+#: admin/bookings.php:916
+msgid "Hide gateway response"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:578
+#: includes/form-customiser/class-eo-booking-form-element.php:641
+#: admin/js/booking-form.js:403
+#: admin/js/booking-form.js:430
+#: admin/js/booking-form.js:441
+#: admin/js/booking-form.js:452
+#: admin/js/booking-form.js:457
+#: admin/js/booking-form.js:469
+#: admin/js/booking-form.js:500
+#: admin/js/booking-form.js:512
+#: admin/js/booking-form.js:521
+#: admin/js/booking-form.js:557
+#: admin/js/booking-form.js:575
+#: admin/js/booking-form.js:609
+#: admin/js/booking-form.js:645
+#: admin/js/booking-form.js:656
+#: admin/js/booking-form.js:667
+#: admin/js/booking-form.js:677
+#: admin/js/booking-form.js:692
+#: admin/js/booking-form.js:699
+#: admin/js/booking-form.js:710
+#: admin/js/booking-form.js:728
+#: admin/js/booking-form.js:738
+#: admin/js/booking-form.js:746
+msgid "Label"
+msgstr ""
+
+#: admin/edit.php:7
+msgid "Event Tickets"
+msgstr "Miðar á viðburð"
+
+#: admin/settings.php:120
+msgid "Before"
+msgstr "Fyrir"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:201
+msgid "The following keyboard shortcuts are available:"
+msgstr ""
+
+#: admin/bookings.php:111
+msgid "Error in restoring the booking."
+msgstr ""
+
+#: admin/settings.php:240
+msgid "United States"
+msgstr "Bandaríkin"
+
+#: includes/class-eo-user-attending-widget.php:24
+#: admin/js/booking-form.js:129
+msgid "Title"
+msgstr "Titill"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:991
+#: includes/form-customiser/class-eo-booking-form-element.php:1000
+#: admin/js/booking-form.js:620
+#: admin/js/booking-form.js:621
+msgid "Phone"
+msgstr "Sími"
+
+#: admin/bookings.php:480
+msgid "The occurrence date for which this booking was made no longer exists."
+msgstr ""
+
+#. /TRANSLATORS: [event] (starts on [date]) - appears in Booking admin screen
+#: admin/bookings.php:814
+msgid "%s (starts on %s)"
+msgstr ""
+
+#: admin/settings.php:238
+msgid "Switzerland"
+msgstr ""
+
+#: admin/bookings.php:686
+#: admin/bookings.php:708
+#: admin/includes/event_booking_table.php:646
+#: admin/includes/event_booking_table.php:706
+#: admin/includes/venues.php:156
+#: includes/shortcodes.php:81
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: templates/eo-ticket-picker.php:40
+msgid "Please select a date"
+msgstr ""
+
+#: admin/js/booking-form.js:568
+msgid "Button"
+msgstr "Hnappur"
+
+#: admin/bookings.php:620
+msgid "Resend tickets to bookee"
+msgstr ""
+
+#: admin/edit.php:234
+msgid "Select a booking form:"
+msgstr ""
+
+#: admin/settings.php:121
+msgid "After"
+msgstr "Eftir"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:802
+#: admin/js/booking-form.js:722
+msgid "Your terms & conditions"
+msgstr ""
+
+#: admin/js/booking-form.js:127
+msgid "This is only used to help you identify the form on the event admin page."
+msgstr ""
+
+#: admin/js/booking-form.js:532
+msgid "What is x + y?"
+msgstr "Hvað er x + y?"
+
+#: admin/includes/shortcode_popup.php:109
+msgid "Venues"
+msgstr "Staðsetningar"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:25
+msgid "This form element only appears if there there are multiple gateways enabled. It cannot be removed but can be placed anywhere in the booking form."
+msgstr ""
+
+#: admin/includes/event_booking_table.php:512
+#: admin/includes/event_booking_table.php:667
+msgid "Email Bookees"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:61
+msgid "Display a calendar of events, similar to the admin calendar."
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:240
+msgid "Save the current form"
+msgstr "Vista núverandi form"
+
+#: admin/js/booking-form.js:613
+msgid "Min"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:517
+msgid "Restore Bookings"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:35
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:66
+msgid "Save Form"
+msgstr "Vista form"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:42
+msgid "Form"
+msgstr "Form"
+
+#: admin/js/booking-form.js:1532
+msgid "Moved form element up"
+msgstr ""
+
+#: admin/settings.php:235
+msgid "Philippines"
+msgstr "Filippseyjar"
+
+#: admin/settings.php:158
+msgid "No"
+msgstr ""
+
+#: includes/booking-actions.php:311
+msgid "A new booking has been confirmed on your site %site_name%:"
+msgstr ""
+
+#: includes/register.php:109
+msgid "Add New Booking Form"
+msgstr "Bæta við skráningarformi"
+
+#: admin/settings.php:114
+msgid "Currency Position"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:76
+msgid "Restore Booking"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:106
+msgid "Display a Google map of venue or venues"
+msgstr ""
+
+#: admin/includes/ajax-actions.php:237
+#: admin/includes/ajax-actions.php:264
+msgid "Please provide a custom field value."
+msgstr ""
+
+#: admin/includes/event_booking_table.php:707
+#: includes/form-customiser/class-eo-booking-form-element.php:876
+#: includes/form-customiser/class-eo-booking-form-element.php:885
+#: includes/form-customiser/class-eo-booking-form-factory.php:112
+msgid "Email"
+msgstr "Vefpóstfang"
+
+#: admin/includes/venues.php:155
+msgid "Enter new"
+msgstr "Bæta nýju við"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:573
+#: admin/js/booking-form.js:700
+msgid "Select"
+msgstr "Velja"
+
+#: admin/edit.php:187
+msgid "Deselect all"
+msgstr "Taka val af öllu"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:906
+#: templates/booking-form/eo-booking-form-name.php:53
+msgid "Last Name"
+msgstr "Kenninafn"
+
+#: admin/includes/shortcode_popup.php:8
+msgid "Event List"
+msgstr "Viðburðaskrá"
+
+#: admin/edit.php:145
+msgid "Sale starts"
+msgstr "Sala hefst"
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:110
+msgid "Element type not given"
+msgstr ""
+
+#: admin/settings.php:155
+msgid "Allow Logged-out Users to place bookings?"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:624
+msgid "Cell delimiter "
+msgstr ""
+
+#: admin/js/booking-form.js:1539
+msgid "Moved form element down"
+msgstr ""
+
+#: admin/includes/venues.php:11
+msgid "Featured Image"
+msgstr "Einkennismynd"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1149
+#: templates/booking-form/eo-booking-form-address.php:82
+msgid "State/Province"
+msgstr ""
+
+#: admin/bookings.php:957
+msgid "Searching for email address &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1407
+msgid "Attendee question"
+msgstr ""
+
+#: admin/calendar.php:113
+#: includes/register.php:81
+msgid "Confirmed"
+msgstr "Staðfest"
+
+#: admin/includes/event_booking_table.php:675
+msgid "Subject"
+msgstr "Efni"
+
+#: admin/settings.php:49
+msgid "Booking management permissions"
+msgstr ""
+
+#: admin/includes/venues.php:137
+#: admin/includes/venues.php:193
+#: admin/includes/venues.php:211
+#: admin/includes/venues.php:282
+msgid "Value"
+msgstr "Gildi"
+
+#: admin/includes/event_booking_table.php:430
+msgid "%s booking"
+msgid_plural "%s bookings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/includes/shortcode_popup.php:72
+msgid "Time format"
+msgstr "Tímasnið"
+
+#: admin/bookings.php:855
+msgid "Booking Meta"
+msgstr ""
+
+#: admin/bookings.php:959
+msgid "Searching for bookee &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:340
+msgid "Download tickets"
+msgstr "Sækja miða"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:63
+msgid "Delete Form"
+msgstr "Eða formi"
+
+#: includes/booking-actions.php:455
+msgid "You have not selected any tickets"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:97
+msgid "Show only events current user is attending"
+msgstr ""
+
+#: admin/edit.php:187
+msgid "Select all"
+msgstr "Velja allt"
+
+#: features/bootstrap/FeatureContext.php:436
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: admin/settings.php:24
+msgid "General"
+msgstr "almennt"
+
+#: includes/class-eo-export-csv.php:168
+#: includes/class-eo-export-csv.php:314
+msgid "Booking Status"
+msgstr "Staða skráningar"
+
+#: admin/js/booking-form.js:560
+msgid "Date format"
+msgstr "Dagsetningarsnið"
+
+#: admin/edit.php:163
+msgid "Sale ends"
+msgstr "Sölu lýkur"
+
+#: includes/booking-actions.php:395
+msgid "Please provide a name."
+msgstr ""
+
+#: admin/calendar.php:56
+msgid "Attending"
+msgstr "Taka þátt"
+
+#: admin/calendar.php:115
+msgid "Pending"
+msgstr "Í bið"
+
+#: admin/settings.php:239
+msgid "United Kingdom"
+msgstr "Bretland"
+
+#: admin/includes/templates/booking-filters.php:17
+#: admin/includes/templates/booking-filters.php:44
+#: admin/includes/templates/booking-filters.php:59
+#: admin/includes/templates/booking-filters.php:70
+#: admin/includes/templates/booking-filters.php:81
+msgid "Remove filter"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:68
+msgid "Day"
+msgstr "Dagur"
+
+#: admin/includes/event_ticket_table.php:23
+#: includes/class-eo-export-csv.php:311
+msgid "Ticket Reference"
+msgstr ""
+
+#: admin/js/booking-form.js:755
+msgid "Use drop-down list"
+msgstr "Nota fellimynd"
+
+#: admin/includes/event_booking_table.php:420
+msgid "%s confirmed attendee"
+msgid_plural "%s confirmed attendees"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:210
+msgid "Move form element under preceding element (if it's a fieldset)"
+msgstr ""
+
+#: admin/bookings.php:560
+msgid "Booking (#%d)"
+msgstr "Skráning  (#%d)"
+
+#: admin/edit.php:17
+msgid "If you edit the event's dates you will need to update any event tickets. If you remove a date, any bookings for that date will be ignored until you re-assign them an event date."
+msgstr ""
+
+#: admin/settings.php:188
+#: admin/settings.php:254
+#: gateways/class-eo-gateway.php:208
+msgid "Disable"
+msgstr "Aftengja"
+
+#: admin/edit.php:41
+#: admin/edit.php:128
+msgid "Spaces"
+msgstr "Sæti"
+
+#: admin/bookings.php:685
+#: admin/bookings.php:707
+msgid "OK"
+msgstr "Í lagi"
+
+#: admin/settings.php:290
+msgid "If enabled, this will form the body of the e-mail instructing the bookee on how to make payment"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:122
+msgid "Dimensions"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:753
+#: admin/js/booking-form.js:485
+#: admin/js/booking-form.js:488
+msgid "HTML"
+msgstr ""
+
+#: admin/js/booking-form.js:561
+msgid "Opening date"
+msgstr "Opnunardagur"
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:89
+#: admin/js/booking-form.js:465
+msgid "Select a payment gateway"
+msgstr ""
+
+#: admin/js/booking-form.js:613
+msgid "Range"
+msgstr "Svið"
+
+#: includes/register.php:95
+msgid "Cancelled"
+msgstr "Hafnað"
+
+#: admin/bookings.php:107
+msgid "You are not allowed to restore this booking."
+msgstr ""
+
+#: admin/settings.php:181
+#: admin/settings.php:250
+#: gateways/class-eo-gateway.php:203
+msgid "Live Switch"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:385
+msgid "File not found"
+msgstr "Skrá fannst ekki"
+
+#: includes/class-eo-export-csv.php:165
+msgid "Total Price"
+msgstr "Verð alls"
+
+#: admin/includes/shortcode_popup.php:136
+#: includes/functions.php:706
+msgid "Category"
+msgstr "Flokkur"
+
+#: admin/includes/event_booking_table.php:647
+msgid "Download"
+msgstr "Hlaða niður"
+
+#: admin/js/booking-form.js:730
+msgid "Terms"
+msgstr "Skilmálar"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:70
+msgid "Export form"
+msgstr "Úthýsingarform"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1327
+msgid "Submit button"
+msgstr "Staðfestingarhnappur"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:21
+msgid "Create New Form"
+msgstr "Búa til nýtt form"
+
+#: admin/includes/shortcode_popup.php:148
+#: includes/shortcodes.php:305
+#: admin/js/booking-form.js:409
+msgid "State"
+msgstr ""
+
+#: admin/edit.php:38
+#: admin/includes/event_ticket_table.php:24
+#: includes/booking-actions.php:95
+#: includes/class-eo-export-csv.php:310
+#: includes/email.php:421
+#: templates/eo-ticket-picker.php:26
+msgid "Ticket"
+msgstr "Miði"
+
+#: admin/bookings.php:794
+#: admin/bookings.php:797
+msgid "Orphaned booking"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:113
+msgid "Element type \"%s\" not recognised"
+msgstr ""
+
+#: admin/js/booking-form.js:613
+msgid "Max"
+msgstr "Hám."
+
+#: includes/booking-actions.php:46
+msgid "A new booking has been made on your site %site_name%:"
+msgstr ""
+
+#: admin/includes/venues.php:166
+msgid "Add Custom Field"
+msgstr ""
+
+#: admin/edit.php:129
+msgid "This indicates the quanity available of this ticket type. If you are selling tickets for individual occurrences, then this limit applies to each occurrence."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:381
+msgid "You do not have permission to import forms."
+msgstr ""
+
+#: admin/settings.php:232
+msgid "Italy"
+msgstr "Ítalía"
+
+#: admin/bookings.php:408
+#: admin/bookings.php:804
+#: admin/bookings.php:817
+#: includes/class-eo-export-csv.php:158
+#: includes/class-eo-export-csv.php:304
+#: includes/functions.php:681
+#: includes/shortcodes.php:192
+#: templates/event-booking-history.php:17
+msgid "Event"
+msgstr "Viðburður"
+
+#: admin/js/booking-form.js:1853
+msgid "Form element deleted"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:9
+msgid "Calendar"
+msgstr "Dagatal"
+
+#: includes/functions.php:758
+#: includes/shortcodes.php:358
+msgid "To"
+msgstr "til"
+
+#: admin/edit.php:52
+#: admin/includes/event_ticket_table.php:18
+msgid "No tickets"
+msgstr ""
+
+#: admin/bookings.php:81
+msgid "You are not allowed to cancel this booking."
+msgstr ""
+
+#: admin/bookings.php:946
+msgid "Bookings for event &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:466
+msgid "Current page"
+msgstr "Núverandi síða"
+
+#: admin/edit.php:194
+msgid "You have the option of selling tickets for only specific dates, for instance you may wish to make a cheaper tickets available for only the first occurrence."
+msgstr ""
+
+#: admin/js/booking-form.js:416
+#: admin/js/booking-form.js:423
+#: admin/js/booking-form.js:445
+#: admin/js/booking-form.js:458
+#: admin/js/booking-form.js:470
+#: admin/js/booking-form.js:503
+#: admin/js/booking-form.js:525
+#: admin/js/booking-form.js:541
+#: admin/js/booking-form.js:562
+#: admin/js/booking-form.js:576
+#: admin/js/booking-form.js:614
+#: admin/js/booking-form.js:660
+#: admin/js/booking-form.js:681
+#: admin/js/booking-form.js:693
+#: admin/js/booking-form.js:714
+#: admin/js/booking-form.js:732
+#: admin/js/booking-form.js:749
+msgid "CSS Class"
+msgstr "CSS flokkur"
+
+#: admin/includes/shortcode_popup.php:51
+#: admin/includes/shortcode_popup.php:90
+msgid "Events at venues"
+msgstr "Viðburðir á staðsetningum"
+
+#: admin/bookings.php:487
+msgid "This booking could not be confirmed for the following reasons"
+msgstr ""
+
+#: admin/js/booking-form.js:668
+msgid "Radio"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1076
+#: admin/js/booking-form.js:646
+msgid "Multiselect"
+msgstr ""
+
+#: admin/calendar.php:117
+#: includes/booking-actions.php:112
+#: includes/email.php:439
+#: templates/eo-ticket-picker.php:92
+msgid "Total"
+msgstr "Alls"
+
+#: admin/bookings.php:544
+msgid "Booking Details"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:782
+#: admin/js/booking-form.js:451
+msgid "Fieldset"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:220
+msgid "Toggle display the selected element's settings"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:736
+#: admin/js/booking-form.js:476
+#: admin/js/booking-form.js:480
+msgid "Hook"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:615
+msgid "2. CSV Export Settings"
+msgstr ""
+
+#: admin/js/booking-form.js:407
+msgid "Second line"
+msgstr ""
+
+#: includes/register.php:55
+msgid "Search Bookings"
+msgstr "Leita í skráningum"
+
+#: includes/booking-actions.php:54
+#: includes/booking-actions.php:319
+msgid "You can view the <a href=\"%booking_admin_url%\">booking here</a>"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:556
+msgid "Input"
+msgstr "Innsláttur"
+
+#: includes/shortcodes.php:333
+msgid "All countries"
+msgstr "Öll lönd"
+
+#: admin/js/booking-form.js:1137
+msgid "Form deleted"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:905
+#: templates/booking-form/eo-booking-form-name.php:33
+msgid "First Name"
+msgstr "Fornafn"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:937
+#: includes/form-customiser/class-eo-booking-form-element.php:946
+#: admin/js/booking-form.js:598
+#: admin/js/booking-form.js:599
+msgid "Number"
+msgstr "Tala"
+
+#: admin/includes/shortcode_popup.php:19
+msgid "Events starting after"
+msgstr "Viðburðir sem hefjast síðar en"
+
+#: includes/register.php:52
+msgid "New Bookings"
+msgstr "Nýjar skráningar"
+
+#: includes/class-eo-user-attending-widget.php:15
+msgid "Displays a list of events a user is attending"
+msgstr ""
+
+#: admin/bookings.php:795
+msgid "Select date"
+msgstr "Velja dag"
+
+#: admin/settings.php:134
+msgid "Return to form"
+msgstr ""
+
+#: includes/booking-form-handler.php:165
+msgid "Not got an account? <a href=\"#\" class=\"eo-booking-no-account-toggle\">Click here</a>."
+msgstr ""
+
+#: admin/bookings.php:412
+#: admin/bookings.php:603
+#: admin/calendar.php:102
+#: templates/event-booking-history.php:20
+msgid "Status"
+msgstr "Staða"
+
+#: includes/class-eo-export-csv.php:312
+msgid "Ticket Price"
+msgstr "Miðaverð"
+
+#: admin/js/booking-form.js:531
+msgid "Antispam"
+msgstr "Antispam"
+
+#: admin/includes/shortcode_popup.php:25
+msgid "Events starting before"
+msgstr "Viðburðir sem hefjast fyrr en"
+
+#: admin/bookings.php:766
+msgid "Booking Date"
+msgstr "Skráningardagur"
+
+#: admin/settings.php:286
+msgid "Offline Payment (Email) Instructions"
+msgstr ""
+
+#: includes/functions.php:772
+#: includes/shortcodes.php:375
+msgid "Search"
+msgstr "Leit"
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:119
+msgid "The element ID \"%s\" is not allowed"
+msgstr ""
+
+#: includes/booking-actions.php:744
+msgid "You must be logged in to cancel bookings."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1210
+msgid "Please enter a state / province"
+msgstr ""
+
+#: admin/js/booking-form.js:764
+msgid "Simple Booking Mode only comes into effect if:<ul><li>This option is selected.</li><li>The event has only one ticket currently on sale.</li><li>You are booking by series, or the event is non-recurring (no date needs to be selected).</li></ul>Under those conditions the date and ticket selection is hidden from the booking form, and the booking consist of only one ticket."
+msgstr ""
+
+#: includes/gateways.php:164
+msgid "Thank you for your booking. You shall receive an e-mail containing your tickets once we have confirmed payment"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:134
+msgid "This form element asks the user a simple random maths question in order to help prevent spam"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:126
+msgid "Width:"
+msgstr "Breidd:"
+
+#: includes/register.php:302
+msgid "Minute"
+msgstr "Mínúta"
+
+#: admin/includes/event_booking_table.php:609
+msgid "Select booking fields to be included in export"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:260
+#: includes/form-customiser/class-eo-booking-form-element.php:267
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:37
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:49
+msgid "<strong>ERROR</strong>: Please fill in all required fields"
+msgstr ""
+
+#: admin/settings.php:10
+msgid "Booking Form"
+msgstr ""
+
+#: includes/register.php:301
+msgid "Hour"
+msgstr "Stund"
+
+#: admin/settings.php:55
+msgid "Role"
+msgstr "Hlutverk"
+
+#: admin/includes/templates/booking-filters.php:73
+msgid "Booking ID:"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:29
+msgid "This form element allows the user to select their ticket(s). It cannot be removed but can be placed anywhere in the booking form."
+msgstr ""
+
+#: admin/bookings.php:498
+msgid "I want to confirm anyway"
+msgstr ""
+
+#: admin/calendar.php:63
+msgid "Export bookings"
+msgstr ""
+
+#: admin/settings.php:312
+msgid "E-mail template"
+msgstr ""
+
+#: admin/settings.php:159
+msgid "Yes but register an account for them"
+msgstr ""
+
+#: admin/settings.php:50
+msgid "Set permissions for booking management"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:124
+msgid "Height:"
+msgstr "Hæð:"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:925
+msgid "Please provide a last name"
+msgstr ""
+
+#: admin/settings.php:174
+msgid "A new booking is made"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:60
+#: admin/includes/event_booking_table.php:80
+#: includes/shortcodes.php:111
+msgid "Cancel booking"
+msgstr "Afturkalla skráningu"
+
+#: admin/includes/shortcode_popup.php:156
+msgid "Date range"
+msgstr "Dagasvið"
+
+#: admin/includes/venues.php:278
+msgid "Key"
+msgstr "Lykill"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:636
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/register.php:50
+msgid "Add New Booking"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:47
+#: includes/register.php:485
+msgid "Settings"
+msgstr "Stillingar"
+
+#: admin/includes/event_booking_table.php:633
+msgid "Text delimiter "
+msgstr ""
+
+#: includes/register.php:507
+msgid "There has been an error with Event Organiser Pro. The <code>eo_booking_tickets</code> table is missing. Please try re-installing the plugin."
+msgstr ""
+
+#: admin/includes/event_booking_table.php:692
+#: admin/settings.php:351
+msgid "See full list"
+msgstr "Skoða alla skrána"
+
+#: templates/event-booking-history.php:103
+msgid "You have not made any bookings"
+msgstr ""
+
+#: includes/booking-actions.php:740
+#: includes/booking-actions.php:777
+msgid "You do not have permission to cancel this booking."
+msgstr ""
+
+#: admin/includes/ajax-actions.php:261
+msgid "Please provide a custom field name."
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:10
+msgid "Venue Map"
+msgstr "Kort yfir staðsetningar"
+
+#: includes/booking-form-handler.php:70
+msgid "<strong>Error:</strong> This event has non-free tickets and no gateway has been enabled. Please enable a gateway in <em>Settings > Event Organiser > Bookings </em>. This notice only appears to admins."
+msgstr ""
+
+#: includes/register.php:111
+msgid "New Booking Forms"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:281
+msgid "Create an account (optional)"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:694
+msgid "<strong>Note:</strong> your hosting provider may limit the number of e-mails you can send in a 24 hour period. Plug-ins are available that <a href=\"%s\" target=\"_blank\">work around these restrictions.</a>"
+msgstr ""
+
+#: admin/settings.php:228
+msgid "Canada"
+msgstr "Kanada"
+
+#: admin/settings.php:225
+msgid "Australia"
+msgstr "Ástralía"
+
+#: admin/js/booking-form.js:1577
+msgid "Moved form element left"
+msgstr ""
+
+#: admin/settings.php:147
+msgid "Reserve Pending Tickets"
+msgstr ""
+
+#: includes/register.php:297
+msgid "Show dates"
+msgstr "Sýningardagar"
+
+#: admin/includes/event_booking_table.php:511
+msgid "Cancel Bookings"
+msgstr "Aflýsa skráningum"
+
+#: includes/bookable/class-event.php:52
+msgid "%s: only %d spaces remaining"
+msgstr ""
+
+#: admin/js/booking-form.js:404
+msgid "Address includes"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:165
+msgid "You can view the full range of attributes for these shortcodes on the <a href=\"%s\" target=\"_blank\">plug-in website</a>"
+msgstr ""
+
+#: admin/settings.php:229
+msgid "China"
+msgstr "Kína"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:796
+#: includes/form-customiser/class-eo-booking-form-element.php:801
+#: admin/js/booking-form.js:720
+#: admin/js/booking-form.js:721
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/bookings.php:677
+msgid "Edit name"
+msgstr "Breyta nafni"
+
+#: admin/js/booking-form.js:761
+#: admin/js/booking-form.js:763
+msgid "Simple Booking Mode"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1059
+msgid "Hidden"
+msgstr "Falið"
+
+#: admin/includes/shortcode_popup.php:152
+#: includes/form-customiser/class-eo-booking-form-element.php:1151
+#: includes/shortcodes.php:327
+#: templates/booking-form/eo-booking-form-address.php:121
+#: admin/js/booking-form.js:411
+msgid "Country"
+msgstr "Land"
+
+#: admin/bookings.php:903
+msgid "Gateway Response"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1133
+#: includes/form-customiser/class-eo-booking-form-element.php:1138
+#: admin/js/booking-form.js:394
+#: admin/js/booking-form.js:395
+msgid "Address"
+msgstr "Heimilisfang"
+
+#: admin/edit.php:115
+msgid "Price:"
+msgstr "Verð:"
+
+#: admin/includes/event_booking_table.php:308
+#: admin/includes/event_booking_table.php:312
+msgid "Filter"
+msgstr ""
+
+#: admin/settings.php:319
+msgid "Custom Templates"
+msgstr ""
+
+#: admin/js/booking-form.js:1144
+msgid "No form found... <a href=\"#\" title=\"Create a new form\" class=\"eo-bfc-add-form-btn\">create new</a>"
+msgstr ""
+
+#: includes/booking-actions.php:408
+msgid "You must be logged in to place a booking"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1250
+#: admin/js/booking-form.js:770
+msgid "Ticket picker"
+msgstr ""
+
+#: includes/shortcodes.php:510
+#: templates/user-attending-widget-event-list.php:41
+msgid "on"
+msgstr "þann"
+
+#: admin/settings.php:26
+#: includes/gateways.php:57
+msgid "Offline Payment"
+msgstr ""
+
+#: admin/js/booking-form.js:513
+msgid "Text field"
+msgstr "Textareitur"
+
+#: admin/js/booking-form.js:1035
+msgid "Form element added"
+msgstr ""
+
+#: includes/register.php:116
+msgid "No Booking Forms found in Trash"
+msgstr ""
+
+#: includes/class-eo-user-attending-widget.php:28
+msgid "Number of events"
+msgstr "Fjöldi viðburða"
+
+#: admin/settings.php:106
+msgid "Currency"
+msgstr "Gjaldmiðill"
+
+#: admin/includes/templates/booking-filters.php:20
+msgid "Select an event:"
+msgstr "Velja viðburð:"
+
+#: admin/bookings.php:633
+#: admin/includes/event_booking_table.php:62
+msgid "Cancel Booking"
+msgstr "Aflýsa skráningu"
+
+#: includes/gateways.php:173
+msgid "Thank you for your booking. You shall receive an e-mail containing your tickets shortly"
+msgstr ""
+
+#: admin/bookings.php:85
+msgid "Error in cancelling the booking."
+msgstr ""
+
+#: includes/gateways.php:168
+msgid "Thank you for registering"
+msgstr ""
+
+#: admin/settings.php:230
+msgid "France"
+msgstr "Frakkland"
+
+#: admin/bookings.php:406
+#: admin/bookings.php:545
+#: admin/calendar.php:98
+#: includes/form-customiser/class-eo-booking-form-factory.php:173
+msgid "Booking"
+msgstr ""
+
+#: admin/edit.php:220
+msgid "Cap booking at %s places"
+msgstr ""
+
+#: admin/settings.php:274
+msgid "Offline Payment Email"
+msgstr ""
+
+#: includes/booking-actions.php:309
+msgid "Booking Confirmed"
+msgstr "Skráning staðfest"
+
+#: admin/includes/event_ticket_table.php:52
+msgid "Remove"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:975
+msgid "Please enter a number between %1$s and %2$s."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1146
+msgid "Street Address"
+msgstr "Gata"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1289
+#: admin/js/booking-form.js:464
+msgid "Gateway picker"
+msgstr ""
+
+#: admin/bookings.php:411
+#: includes/class-eo-export-csv.php:159
+#: includes/class-eo-export-csv.php:305
+#: includes/form-customiser/class-eo-booking-form-element.php:835
+#: includes/form-customiser/class-eo-booking-form-element.php:864
+#: templates/eo-ticket-picker.php:24
+#: templates/event-booking-history.php:16
+#: admin/js/booking-form.js:547
+#: admin/js/booking-form.js:548
+msgid "Date"
+msgstr "Dagur"
+
+#: admin/edit.php:169
+msgid "Bookings will be closed when an occurrences starts."
+msgstr ""
+
+#: admin/bookings.php:833
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/js/booking-form.js:524
+#: admin/js/booking-form.js:612
+msgid "Placeholder"
+msgstr "Staðgengill"
+
+#: includes/register.php:57
+msgid "No Bookings found in Trash"
+msgstr "Engar skráningar fundust í rusli"
+
+#: admin/includes/event_booking_table.php:333
+msgid "Download bookings"
+msgstr ""
+
+#: admin/settings.php:298
+msgid "Offline Payment Email Subject"
+msgstr ""
+
+#: admin/js/booking-form.js:414
+#: admin/js/booking-form.js:443
+#: admin/js/booking-form.js:522
+#: admin/js/booking-form.js:558
+#: admin/js/booking-form.js:610
+#: admin/js/booking-form.js:658
+#: admin/js/booking-form.js:679
+#: admin/js/booking-form.js:712
+#: admin/js/booking-form.js:729
+#: admin/js/booking-form.js:747
+msgid "Required"
+msgstr "Nauðsynlegt"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1150
+#: templates/booking-form/eo-booking-form-address.php:101
+#: admin/js/booking-form.js:410
+msgid "Postcode"
+msgstr "Póstnúmer"
+
+#: includes/booking-actions.php:543
+msgid "Registration failed. Please contact an <a href=\"mailto:%s\">administrator</a>."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:803
+#: admin/js/booking-form.js:723
+msgid "I have read and agree to the terms and conditions detailed above."
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:133
+msgid "Allow your users to search events. Select which filters they can use."
+msgstr ""
+
+#: includes/register.php:202
+msgid "View all countries"
+msgstr "Sjá öll lönd"
+
+#: admin/js/booking-form.js:731
+msgid "Checkbox label"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:31
+msgid "Events ending after"
+msgstr "Viðburðir sem lýkur síðar en"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:769
+#: admin/js/booking-form.js:687
+#: admin/js/booking-form.js:688
+msgid "Section"
+msgstr "Deild"
+
+#: admin/settings.php:195
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:116
+msgid "No element ID provided"
+msgstr ""
+
+#: includes/register.php:204
+msgid "View all cities"
+msgstr "Sjá allar borgir"
+
+#: includes/register.php:203
+msgid "View all states"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:100
+#: includes/form-customiser/class-eo-booking-form-factory.php:193
+#: admin/js/booking-form.js:570
+msgid "Book"
+msgstr "Skrá"
+
+#: admin/edit.php:90
+#: admin/includes/venues.php:280
+msgid "Delete"
+msgstr "Eyða"
+
+#: admin/bookings.php:715
+msgid "View bookee profile"
+msgstr ""
+
+#: includes/register.php:56
+msgid "No Bookings found"
+msgstr ""
+
+#: admin/edit.php:140
+msgid "Tickets on sale:"
+msgstr "Miðar til sölu"
+
+#: admin/includes/shortcode_popup.php:67
+msgid "Week"
+msgstr "Vika"
+
+#: admin/includes/venues.php:145
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/booking-actions.php:467
+#: includes/booking-actions.php:477
+#: includes/booking-actions.php:486
+msgid "Sorry, but the requested number of tickets is unavailable."
+msgstr ""
+
+#: admin/bookings.php:407
+#: admin/calendar.php:99
+#: includes/booking-actions.php:49
+#: includes/booking-actions.php:314
+#: includes/class-eo-export-csv.php:160
+#: includes/class-eo-export-csv.php:306
+msgid "Bookee"
+msgstr ""
+
+#: admin/settings.php:234
+msgid "Netherlands"
+msgstr "Holland"
+
+#: admin/bookings.php:638
+#: admin/includes/venues.php:281
+msgid "Update"
+msgstr "Uppfæra"
+
+#: admin/bookings.php:478
+msgid "The event associated with this booking could not be found. It may have been deleted."
+msgstr ""
+
+#: admin/js/booking-form.js:502
+msgid "Require second name"
+msgstr ""
+
+#: admin/edit.php:224
+msgid "Do not cap"
+msgstr "Ekki stoppa við hámark"
+
+#: includes/functions.php:754
+#: includes/shortcodes.php:354
+msgid "Select dates"
+msgstr "Velja daga"
+
+#: admin/settings.php:213
+msgid "Style your PayPal payment page"
+msgstr ""

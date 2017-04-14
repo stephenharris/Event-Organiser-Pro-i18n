@@ -1,0 +1,2207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
+"PO-Revision-Date: 2016-11-27T14:41:56+00:00\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: admin/bookings.php:700
+msgid "Edit email"
+msgstr ""
+
+#: admin/js/booking-form.js:130
+msgid "Error classes"
+msgstr ""
+
+#: admin/bookings.php:657
+msgid "User not found"
+msgstr "ユーザが見つかりません"
+
+#: includes/template-tags.php:68
+#: templates/eo-ticket-picker.php:79
+msgid "Sold out"
+msgstr "売り切れ"
+
+#: admin/settings.php:130
+msgid "You can either sell tickets for individual dates of an event, or sell tickets for the entire series - for example, places on a course"
+msgstr "チケットもイベントと同様に、イベント毎またはシリーズ全体に販売できます。"
+
+#: admin/includes/event_booking_table.php:682
+msgid "In the e-mail subject & body you can use the following tags"
+msgstr "メールの題名や本文にて、以下のタグを利用できます。"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:148
+msgid "Advanced Fields"
+msgstr "上級フィールド"
+
+#: admin/edit.php:124
+msgid "Spaces:"
+msgstr "枚数"
+
+#: includes/functions.php:711
+msgid "All categories"
+msgstr "全てのカテゴリ"
+
+#: admin/includes/venues.php:326
+#: admin/includes/venues.php:327
+msgid "Set featured image"
+msgstr "注目画像を設定"
+
+#: admin/js/booking-form.js:758
+msgid "If checked a drop-down select menu is used for selecting a date, rather than a datepicker."
+msgstr "チェックすれば、日付選択メニューにてカレンダー式よりドロップダウン式を優先します。"
+
+#: includes/register.php:49
+#: includes/register.php:108
+msgid "Add New"
+msgstr "新規登録"
+
+#: admin/includes/shortcode_popup.php:66
+msgid "Month"
+msgstr "月"
+
+#: includes/register.php:112
+#: includes/register.php:117
+msgid "Booking Forms"
+msgstr "予約フォーム"
+
+#: includes/booking-actions.php:399
+msgid "Please provide a valid email address."
+msgstr "正しいメールアドレスを入力してください。"
+
+#: admin/includes/event_booking_table.php:166
+msgid "%s ago"
+msgstr "%s日前"
+
+#: admin/settings.php:341
+msgid "You can use the following placeholders"
+msgstr "次の代入語を使用できます。"
+
+#: admin/settings.php:45
+msgid "Manage bookings"
+msgstr "予約を管理"
+
+#: includes/register.php:513
+msgid "There has been an error with Event Organiser Pro. The <code>eo_booking_ticketmeta</code> table is missing. Please try re-installing the plugin."
+msgstr ""
+
+#: admin/settings.php:168
+msgid "Notify me when"
+msgstr "知らせを受ける"
+
+#: admin/settings.php:321
+msgid "You can <a href=\"%s\" target=\"_blank\">create your own e-mail templates</a> and add them to your theme."
+msgstr "<a href=\"%s\" target=\"_blank\">メールテンプレートを作成</a>し、追加できます。"
+
+#: admin/bookings.php:915
+msgid "Show gateway response"
+msgstr ""
+
+#: admin/settings.php:27
+#: includes/class-eo-export-csv.php:163
+#: includes/class-eo-export-csv.php:309
+#: admin/js/booking-form.js:583
+#: admin/js/booking-form.js:584
+msgid "E-mail"
+msgstr "メール"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:185
+msgid "You do not have permission to edit the booking forms"
+msgstr ""
+
+#: includes/booking-actions.php:752
+msgid "This booking can no longer be cancelled."
+msgstr "この予約はもうキャンセルできません。"
+
+#: admin/edit.php:59
+msgid "Add Ticket"
+msgstr "チケットを追加"
+
+#: admin/settings.php:187
+#: gateways/class-eo-gateway.php:207
+msgid "Sandbox Mode"
+msgstr ""
+
+#: admin/bookings.php:728
+msgid "Other Recent bookings"
+msgstr "他の最近の予約"
+
+#: includes/register.php:113
+msgid "View Booking Form"
+msgstr "予約フォームを見る"
+
+#: includes/booking-actions.php:384
+msgid "Please select an event."
+msgstr "イベントを選択してください。"
+
+#: admin/includes/templates/booking-filters.php:47
+msgid "Status:"
+msgstr ""
+
+#: includes/register.php:51
+msgid "Edit Bookings"
+msgstr "予約内容を変更"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:921
+msgid "Please provide a first name"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1209
+msgid "Please enter a city"
+msgstr ""
+
+#: admin/bookings.php:27
+#: admin/bookings.php:30
+#: admin/bookings.php:378
+#: admin/calendar.php:11
+#: admin/settings.php:9
+#: admin/settings.php:124
+#: includes/register.php:53
+#: includes/register.php:58
+#: admin/js/booking-form.js:103
+msgid "Bookings"
+msgstr "予約"
+
+#: includes/booking-actions.php:44
+msgid "New event booking"
+msgstr "新規予約"
+
+#: admin/js/booking-form.js:501
+msgid "Include second name"
+msgstr "姓と名を分ける"
+
+#: admin/includes/venues.php:10
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: admin/settings.php:222
+msgid "PayPal Local Site"
+msgstr ""
+
+#: includes/shortcodes.php:311
+msgid "All states"
+msgstr "全ての都道府県"
+
+#: admin/settings.php:231
+msgid "Germany"
+msgstr "ドイツ"
+
+#: includes/booking-actions.php:50
+#: includes/booking-actions.php:315
+msgid "Username:"
+msgstr ""
+
+#: admin/bookings.php:668
+#: admin/includes/templates/booking-filters.php:62
+msgid "Bookee:"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:621
+#: admin/js/booking-form.js:739
+msgid "Textarea"
+msgstr "入力欄（複数行）"
+
+#: admin/includes/shortcode_popup.php:38
+msgid "Events ending before"
+msgstr "イベント終了前"
+
+#: admin/includes/event_booking_table.php:513
+msgid "Confirm Bookings"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:235
+msgid "Open shorcut help"
+msgstr ""
+
+#: admin/bookings.php:138
+msgid "You do not have permission to delete bookings"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:273
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:58
+msgid "<strong>ERROR</strong>: Some fields are not valid"
+msgstr "<strong>エラー</strong>: 正しくない項目があります。"
+
+#: includes/form-customiser/class-eo-booking-form-view.php:184
+msgid "You have already made a booking for this event."
+msgstr "既にこのイベントは予約しています。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:692
+#: admin/js/booking-form.js:431
+msgid "Checkbox"
+msgstr ""
+"チェックボックス\n"
+"（複数選択可）"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1212
+msgid "Please enter a country"
+msgstr ""
+
+#: admin/edit.php:109
+msgid "Ticket name:"
+msgstr "チケット名"
+
+#: admin/includes/templates/booking-filters.php:84
+msgid "Booked between:"
+msgstr ""
+
+#: includes/class-eo-export-csv.php:164
+msgid "Ticket Quantity"
+msgstr "チケット枚数"
+
+#: admin/settings.php:237
+msgid "Spain"
+msgstr "スペイン"
+
+#: templates/user-attending-widget-event-list.php:49
+msgid "You are not currently registered for any events"
+msgstr "現在、予約しているイベントがありません。"
+
+#: admin/includes/venues.php:132
+msgid "Add New Custom Field:"
+msgstr "カスタムフィールドを追加"
+
+#: admin/settings.php:126
+msgid "Entire series"
+msgstr "シリーズ全体に適用"
+
+#: includes/register.php:54
+msgid "View Booking"
+msgstr "予約内容を見る"
+
+#: admin/settings.php:215
+msgid "PayPal allows you to tailor the booking payment page to you site. For more information, <a href=\"%s\" target=\"_blank\">see this tutorial</a>"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:477
+msgid "Go to the next page"
+msgstr "次のページに移動"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:205
+msgid "Move selected form element up and down the form"
+msgstr ""
+
+#: admin/bookings.php:661
+msgid "No account"
+msgstr "アカウントがありません"
+
+#: admin/includes/shortcode_popup.php:112
+msgid "Leave blank for venue of current event (if this is being used on an event's page"
+msgstr "現在のイベントの会場を空白のままにする（イベントページにて使用中の場合）"
+
+#: templates/event-booking-history.php:15
+msgid "Booking ref"
+msgstr "予約番号"
+
+#: admin/js/booking-form.js:1001
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: admin/bookings.php:846
+#: includes/class-eo-export-csv.php:166
+msgid "Booking Notes"
+msgstr "メモ"
+
+#: admin/bookings.php:268
+#: admin/bookings.php:277
+#: includes/booking-actions.php:222
+msgid "Thank you for your booking"
+msgstr "ご予約、ありがとうございます。"
+
+#: admin/includes/shortcode_popup.php:41
+msgid "You can use relative dates, e.g. 'now', 'next Tuesday'"
+msgstr "相対日付を利用できます。（例: 今日、次の水曜日）"
+
+#: admin/includes/event_booking_table.php:74
+msgid "Restore booking"
+msgstr "予約を復元"
+
+#: admin/settings.php:139
+msgid "After a booking is made, redirect the user "
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:215
+msgid "Move form element out from under parent element"
+msgstr ""
+
+#: templates/eo-booking-form.php:19
+msgid "Bookings are no longer available for this event."
+msgstr "このイベントは予約できません。"
+
+#: includes/register.php:298
+msgid "Hide dates"
+msgstr "日付を隠す"
+
+#: admin/settings.php:160
+msgid "Yes, account is optional"
+msgstr "はい。アカウントの作成はユーザが選択できます。"
+
+#: admin/bookings.php:772
+#: includes/class-eo-export-csv.php:157
+#: includes/class-eo-export-csv.php:303
+msgid "Booking Reference"
+msgstr "予約番号"
+
+#: admin/js/booking-form.js:569
+msgid "Submit"
+msgstr "完了"
+
+#: admin/edit.php:133
+#: admin/edit.php:152
+#: admin/edit.php:198
+msgid "See this page for more details"
+msgstr "このページの詳細を見る"
+
+#: admin/includes/event_booking_table.php:608
+msgid "1. Select custom fields"
+msgstr "１。カスタムフィールドを選択"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1034
+#: includes/form-customiser/class-eo-booking-form-element.php:1043
+#: admin/js/booking-form.js:632
+#: admin/js/booking-form.js:633
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: admin/includes/event_booking_table.php:644
+msgid "3. Download"
+msgstr "３。ダウンロード"
+
+#: admin/includes/shortcode_popup.php:11
+msgid "Event Search"
+msgstr "イベントを検索"
+
+#: includes/class-eo-user-attending-widget.php:16
+msgid "Events user is attending"
+msgstr "ユーザが参加中のイベント"
+
+#: includes/register.php:114
+msgid "Search Booking Forms"
+msgstr "予約フォームを検索"
+
+#: admin/edit.php:190
+msgid "Select the dates of the event for which you want this ticket to be sold. (Default: all dates)."
+msgstr "このチケットを販売するイベント日を選択してください。"
+
+#: admin/includes/event_booking_table.php:428
+msgid "No bookings"
+msgstr "予約がありません"
+
+#: includes/booking-form-handler.php:188
+msgid "Password Lost and Found"
+msgstr "パスワードを紛失・確認"
+
+#: admin/js/booking-form.js:757
+msgid "Date selection"
+msgstr "日付選択"
+
+#: includes/booking-form-handler.php:188
+msgid "Lost your password?"
+msgstr "パスワードを忘れましたか？"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:28
+msgid "Import form"
+msgstr ""
+
+#: admin/settings.php:338
+msgid "In the e-mail template you can use booking information placeholders"
+msgstr "メールテンプレートにて、予約情報の代入語を使用できます。"
+
+#: includes/shortcodes.php:289
+msgid "All cities"
+msgstr "全ての市区町村"
+
+#: admin/includes/event_booking_table.php:457
+msgid "Go to the previous page"
+msgstr "前のページに移動"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:148
+msgid "Standard Fields"
+msgstr "基本フィールド"
+
+#: admin/js/booking-form.js:494
+msgid "Bookee name"
+msgstr "予約者名"
+
+#: admin/calendar.php:61
+msgid "View bookings"
+msgstr "予約内容を表示"
+
+#: admin/js/booking-form.js:131
+msgid "Notice classes"
+msgstr ""
+
+#: admin/bookings.php:142
+msgid "Error in deleting booking."
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:21
+msgid "Create a new form"
+msgstr "新しいフォームを追加"
+
+#: admin/edit.php:147
+msgid "Ticket availability"
+msgstr ""
+
+#: admin/bookings.php:458
+msgid "The following bookings could not be automatically confirmed. Please confirm these manually:"
+msgstr "この予約は自動的には確定されません。手動で確定してください。"
+
+#: includes/booking-actions.php:459
+msgid "The tickets you have selected are no longer available."
+msgstr "選択されたチケットは、現在利用できません。"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:401
+msgid "File is not a json file"
+msgstr ""
+
+#: admin/bookings.php:410
+#: admin/includes/event_ticket_table.php:25
+#: includes/booking-actions.php:96
+#: includes/email.php:422
+#: templates/eo-ticket-picker.php:27
+msgid "Price"
+msgstr "価格"
+
+#: includes/email.php:423
+msgid "Ref."
+msgstr "番号"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1207
+msgid "Please enter a street address."
+msgstr ""
+
+#: includes/functions.php:757
+#: includes/shortcodes.php:357
+msgid "From"
+msgstr "から"
+
+#: includes/shortcodes.php:132
+msgid "Booking #%s could not be cancelled."
+msgstr "予約 #%s はキャンセルできません。"
+
+#: admin/edit.php:44
+msgid "Price (%s)"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element-view.php:175
+msgid "What is %d + %d?"
+msgstr "%d + %d は？"
+
+#: admin/bookings.php:941
+msgid "Bookings for event &#8220;%s&#8221; (%s)"
+msgstr "イベント「%s」の予約 (%s)"
+
+#: admin/settings.php:205
+msgid "PayPal page style"
+msgstr ""
+
+#: includes/register.php:110
+msgid "Edit Booking Forms"
+msgstr "予約フォームを変更"
+
+#: admin/settings.php:233
+msgid "Mexico"
+msgstr "メキシコ"
+
+#: admin/includes/event_booking_table.php:82
+msgid "Delete Booking"
+msgstr "予約を削除"
+
+#: admin/bookings.php:950
+msgid "Bookings for user &#8220;%s&#8221;"
+msgstr "ユーザ「%s」の予約"
+
+#: admin/includes/shortcode_popup.php:144
+#: includes/form-customiser/class-eo-booking-form-element.php:1148
+#: includes/shortcodes.php:283
+#: templates/booking-form/eo-booking-form-address.php:61
+#: admin/js/booking-form.js:408
+msgid "City"
+msgstr "市区町村"
+
+#: admin/settings.php:278
+msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:408
+msgid "Invalid json file"
+msgstr ""
+
+#: admin/bookings.php:825
+#: admin/calendar.php:101
+#: templates/event-booking-history.php:19
+msgid "Amount"
+msgstr "金額"
+
+#: includes/booking-actions.php:97
+#: templates/eo-ticket-picker.php:28
+msgid "Quantity"
+msgstr "枚数"
+
+#: admin/calendar.php:119
+msgid "Capacity"
+msgstr "許容量"
+
+#: admin/settings.php:161
+msgid "Yes but do not register an account"
+msgstr "はい。しかし会員登録はしません。"
+
+#: admin/includes/shortcode_popup.php:78
+#: admin/includes/shortcode_popup.php:116
+msgid "Include tooltip"
+msgstr ""
+
+#: includes/utility-functions.php:476
+msgid "Dismiss this notice"
+msgstr "通知を非表示"
+
+#: templates/booking-form/eo-booking-form-address.php:24
+#: admin/js/booking-form.js:406
+msgid "Street address"
+msgstr "番地"
+
+#: admin/includes/templates/booking-filters.php:65
+msgid "*logged-in users only"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:63
+msgid "Delete this form"
+msgstr "このフォームを削除"
+
+#: admin/includes/event_booking_table.php:681
+#: admin/settings.php:340
+msgid "E-mailing Bookees"
+msgstr "予約者にメール送信"
+
+#: templates/eo-booking-form.php:31
+msgid "This event has sold out."
+msgstr "このイベントは売り切れました。"
+
+#: admin/bookings.php:693
+#: includes/booking-actions.php:51
+#: includes/booking-actions.php:316
+msgid "Email:"
+msgstr ""
+
+#: includes/register.php:115
+msgid "No Booking Forms found"
+msgstr "予約フォームがありません"
+
+#: includes/form-customiser/class-eo-booking-form-view.php:190
+msgid "You are logged in as <strong>%s</strong>. <a href=\"%s\">Not you?</a>"
+msgstr "現在、<strong>%s</strong>でログインしています。<a href=\"%s\">あなたではありませんか？</a>"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:24
+msgid "Select a form to edit:"
+msgstr ""
+
+#: admin/js/booking-form.js:1701
+msgid "Booking form saved"
+msgstr ""
+
+#: includes/booking-actions.php:463
+msgid "Please select a ticket."
+msgstr "チケットを選択してください。"
+
+#: admin/bookings.php:676
+#: admin/bookings.php:699
+#: admin/edit.php:86
+msgid "Edit"
+msgstr "編集"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:813
+msgid "Antispam maths question"
+msgstr "スパム防止用の質問"
+
+#: includes/booking-actions.php:403
+msgid "This email is already registered, please choose another one or log-in with that account"
+msgstr "このメールは既に登録されています。別のメールで登録、またはこのメールでログインしてください。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:764
+msgid "Section Break"
+msgstr "仕切り"
+
+#: admin/settings.php:267
+msgid "This will appear on the booking form, informing the bookee on how to make payment."
+msgstr "予約フォームにて、ユーザに支払い方法を表示します。"
+
+#: admin/settings.php:25
+msgid "PayPal"
+msgstr ""
+
+#: admin/settings.php:175
+msgid "A booking is confirmed"
+msgstr "予約が確定した時"
+
+#: admin/js/booking-form.js:1847
+msgid "This form element cannot be deleted"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:45
+msgid "This form element will not appear if the user is logged in."
+msgstr "この項目は、ログインユーザには表示されません。"
+
+#: admin/js/booking-form.js:415
+#: admin/js/booking-form.js:422
+#: admin/js/booking-form.js:444
+#: admin/js/booking-form.js:523
+#: admin/js/booking-form.js:540
+#: admin/js/booking-form.js:559
+#: admin/js/booking-form.js:611
+#: admin/js/booking-form.js:659
+#: admin/js/booking-form.js:680
+#: admin/js/booking-form.js:713
+#: admin/js/booking-form.js:748
+msgid "Description"
+msgstr "説明"
+
+#: admin/settings.php:328
+msgid "Preview E-mail"
+msgstr "メールをプレビュー"
+
+#: admin/edit.php:193
+msgid "Ticket dates"
+msgstr "チケット日付"
+
+#: admin/settings.php:370
+msgid "Preview Email"
+msgstr "メールをプレビュー"
+
+#: includes/booking-actions.php:492
+msgid "The payment gateway you have chosen is invalid"
+msgstr "選択した支払い方法はご利用できません。"
+
+#: includes/shortcodes.php:123
+msgid "Booking #%s has been successfully cancelled."
+msgstr "予約 #%s がキャンセルされました。"
+
+#: admin/includes/shortcode_popup.php:16
+msgid "Display a list of events"
+msgstr "イベントのリストを表示"
+
+#: admin/settings.php:226
+msgid "Austria"
+msgstr "オーストリア"
+
+#: includes/booking-actions.php:52
+#: includes/booking-actions.php:317
+#: admin/js/booking-form.js:102
+msgid "Booking form"
+msgstr "予約フォーム"
+
+#: includes/booking-form-handler.php:159
+msgid "Already registered? <a href=\"#\" class=\"eo-booking-login-toggle\">Log-in</a>."
+msgstr "既に会員ですか？ <a href=\"#\" class=\"eo-booking-login-toggle\">ログインはこちら</a>."
+
+#: admin/edit.php:148
+msgid "You can specify a date when this ticket will go on sale, and when it is no longer available for purchase. Leave blank for no restriction. Tickets will automatically come off sale when the event starts"
+msgstr "チケットの販売開始日と販売終了日を指定できます。制限を設けない場合は、空白にしてください。なお、チケットは期日になると自動的に販売開始されます。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1211
+msgid "Please enter a zip / postal code"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:32
+msgid "No bookings found."
+msgstr "予約が見つかりません"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:109
+msgid "This form element allows you to enter any HTML, to be displayed on the form"
+msgstr "この項目はフォームにて表示できるHTMLが挿入できます"
+
+#: admin/bookings.php:409
+#: admin/bookings.php:840
+#: admin/calendar.php:100
+#: templates/event-booking-history.php:18
+msgid "Tickets"
+msgstr "チケット"
+
+#: admin/settings.php:227
+msgid "Belgium"
+msgstr "ベルギー"
+
+#: admin/settings.php:126
+msgid "Particular Occurrence"
+msgstr "イベント毎に適用"
+
+#: admin/settings.php:236
+msgid "Poland"
+msgstr "ポーランド"
+
+#: admin/settings.php:332
+msgid "Booking email"
+msgstr "予約メール"
+
+#: admin/includes/event_booking_table.php:348
+msgid "Delete cancelled bookings"
+msgstr "キャンセルした予約を削除"
+
+#: includes/functions.php:736
+msgid "All venues"
+msgstr "全ての会場"
+
+#: templates/eo-booking-form.php:45
+msgid "Only logged in users can place bookings"
+msgstr "ログインユーザのみ、予約可能です。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1147
+msgid "Address Line 2"
+msgstr "住所２"
+
+#: includes/class-eo-export-csv.php:167
+#: includes/class-eo-export-csv.php:313
+msgid "Booking Date (UTC)"
+msgstr "予約日"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:966
+msgid "Entered value is not numeric."
+msgstr ""
+
+#: admin/includes/templates/booking-filters.php:29
+msgid "Select a date"
+msgstr ""
+
+#: admin/bookings.php:787
+msgid "Change"
+msgstr "変更"
+
+#: admin/includes/shortcode_popup.php:45
+#: admin/includes/shortcode_popup.php:84
+msgid "Events in categories"
+msgstr "カテゴリ内のイベント"
+
+#: admin/settings.php:263
+msgid "Offline Payment Instructions"
+msgstr "会場払いの案内"
+
+#: admin/settings.php:186
+#: admin/settings.php:253
+#: gateways/class-eo-gateway.php:206
+msgid "Live"
+msgstr "使用する"
+
+#: admin/includes/venues.php:339
+msgid "Remove featured image"
+msgstr "注目画像を削除"
+
+#: admin/js/booking-form.js:126
+msgid "Booking Form Name"
+msgstr "予約フォーム名"
+
+#: admin/includes/shortcode_popup.php:140
+#: includes/functions.php:731
+msgid "Venue"
+msgstr "会場"
+
+#: templates/eo-email-template-blue.php:31
+#: templates/eo-email-template-distinct.php:31
+#: templates/eo-email-template-event-organiser.php:31
+#: templates/eo-email-template-green.php:31
+#: templates/eo-email-template-orange.php:31
+msgid "Powered by"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:678
+msgid "Message"
+msgstr "メッセージ"
+
+#: templates/eo-booking-form.php:53
+#: templates/eo-booking-form.php:59
+msgid "Username / Email"
+msgstr "ユーザ名／メール"
+
+#: admin/includes/event_booking_table.php:56
+#: admin/includes/shortcode_popup.php:64
+msgid "View"
+msgstr "表示"
+
+#: admin/bookings.php:955
+msgid "Searching for booking ID &#8220;%s&#8221;"
+msgstr "予約番号にて「%s」を検索"
+
+#: admin/includes/event_booking_table.php:168
+msgid "Y/m/d"
+msgstr ""
+
+#: admin/js/booking-form.js:442
+#: admin/js/booking-form.js:657
+#: admin/js/booking-form.js:678
+#: admin/js/booking-form.js:711
+msgid "Options"
+msgstr "選択肢を設定"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:159
+msgid "Toggle Panel: %s"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1011
+#: includes/form-customiser/class-eo-booking-form-element.php:1020
+msgid "Time"
+msgstr "時間"
+
+#: admin/bookings.php:587
+msgid "Back to table view"
+msgstr "一覧表に戻る"
+
+#: includes/bookable/class-event.php:97
+#: includes/bookable/class-event.php:145
+msgid "Ticket with ID %s does not exist."
+msgstr ""
+
+#: features/bootstrap/FeatureContext.php:434
+msgid "Main Sidebar"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:159
+#: includes/bookings.php:331
+#: includes/class-eo-export-csv.php:264
+#: includes/class-eo-export-csv.php:386
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:450
+msgid "Go to the first page"
+msgstr "最初のページに移動"
+
+#: admin/settings.php:69
+msgid "None"
+msgstr "なし"
+
+#: admin/settings.php:46
+msgid "Manage other events' bookings"
+msgstr "他の予約を管理"
+
+#: admin/includes/event_booking_table.php:418
+msgid "No confirmed attendees"
+msgstr "確定された参加者がありません"
+
+#: admin/includes/venues.php:136
+#: admin/includes/venues.php:210
+msgctxt "meta name"
+msgid "Name"
+msgstr "名前"
+
+#: admin/includes/venues.php:192
+#: includes/form-customiser/class-eo-booking-form-element.php:899
+#: includes/form-customiser/class-eo-booking-form-element.php:904
+#: includes/form-customiser/class-eo-booking-form-factory.php:123
+#: admin/js/booking-form.js:124
+#: admin/js/booking-form.js:493
+msgid "Name"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1208
+msgid "Please enter the second line of the address."
+msgstr ""
+
+#: includes/utility-functions.php:477
+msgid "Dismiss"
+msgstr "非表示"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:230
+msgid "Close modal"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:518
+msgid "Delete Bookings"
+msgstr "予約を削除"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:225
+msgid "Deleted selected element"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:3
+msgid "You can add additional fields to your booking form using the buttons to the right, and then arrange them by dragging the fields. Click the added form field to reveal its options "
+msgstr "右側の項目ボタンを予約フォームに追加できます。なお、フィールドをドラッギングすると、並び順を変えられます。追加されたフィールドをクリックすると詳細が表示されます。"
+
+#: admin/includes/event_booking_table.php:484
+msgid "Go to the last page"
+msgstr "最後のページに移動"
+
+#: admin/bookings.php:916
+msgid "Hide gateway response"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:578
+#: includes/form-customiser/class-eo-booking-form-element.php:641
+#: admin/js/booking-form.js:403
+#: admin/js/booking-form.js:430
+#: admin/js/booking-form.js:441
+#: admin/js/booking-form.js:452
+#: admin/js/booking-form.js:457
+#: admin/js/booking-form.js:469
+#: admin/js/booking-form.js:500
+#: admin/js/booking-form.js:512
+#: admin/js/booking-form.js:521
+#: admin/js/booking-form.js:557
+#: admin/js/booking-form.js:575
+#: admin/js/booking-form.js:609
+#: admin/js/booking-form.js:645
+#: admin/js/booking-form.js:656
+#: admin/js/booking-form.js:667
+#: admin/js/booking-form.js:677
+#: admin/js/booking-form.js:692
+#: admin/js/booking-form.js:699
+#: admin/js/booking-form.js:710
+#: admin/js/booking-form.js:728
+#: admin/js/booking-form.js:738
+#: admin/js/booking-form.js:746
+msgid "Label"
+msgstr "表示名"
+
+#: admin/edit.php:7
+msgid "Event Tickets"
+msgstr "イベントチケット"
+
+#: admin/settings.php:120
+msgid "Before"
+msgstr "金額の前"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:201
+msgid "The following keyboard shortcuts are available:"
+msgstr ""
+
+#: admin/bookings.php:111
+msgid "Error in restoring the booking."
+msgstr "予約の復元にてエラーが発生しました。"
+
+#: admin/settings.php:240
+msgid "United States"
+msgstr "アメリカ"
+
+#: includes/class-eo-user-attending-widget.php:24
+#: admin/js/booking-form.js:129
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:991
+#: includes/form-customiser/class-eo-booking-form-element.php:1000
+#: admin/js/booking-form.js:620
+#: admin/js/booking-form.js:621
+msgid "Phone"
+msgstr "電話番号"
+
+#: admin/bookings.php:480
+msgid "The occurrence date for which this booking was made no longer exists."
+msgstr "この予約日にイベントが存在しません。"
+
+#. /TRANSLATORS: [event] (starts on [date]) - appears in Booking admin screen
+#: admin/bookings.php:814
+msgid "%s (starts on %s)"
+msgstr ""
+
+#: admin/settings.php:238
+msgid "Switzerland"
+msgstr "スイス"
+
+#: admin/bookings.php:686
+#: admin/bookings.php:708
+#: admin/includes/event_booking_table.php:646
+#: admin/includes/event_booking_table.php:706
+#: admin/includes/venues.php:156
+#: includes/shortcodes.php:81
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: templates/eo-ticket-picker.php:40
+msgid "Please select a date"
+msgstr "日付を選択してください"
+
+#: admin/js/booking-form.js:568
+msgid "Button"
+msgstr "ボタン"
+
+#: admin/bookings.php:620
+msgid "Resend tickets to bookee"
+msgstr "予約者にチケットを再送信"
+
+#: admin/edit.php:234
+msgid "Select a booking form:"
+msgstr "予約フォームを選択"
+
+#: admin/settings.php:121
+msgid "After"
+msgstr "金額の後"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:802
+#: admin/js/booking-form.js:722
+msgid "Your terms & conditions"
+msgstr "利用規約"
+
+#: admin/js/booking-form.js:127
+msgid "This is only used to help you identify the form on the event admin page."
+msgstr "この項目は、イベントの管理ページにてフォームを識別しやすくするために使用されます。"
+
+#: admin/js/booking-form.js:532
+msgid "What is x + y?"
+msgstr "x + y は？"
+
+#: admin/includes/shortcode_popup.php:109
+msgid "Venues"
+msgstr "会場"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:25
+msgid "This form element only appears if there there are multiple gateways enabled. It cannot be removed but can be placed anywhere in the booking form."
+msgstr "この項目は選択肢がある場合のみ表示されます。削除はできませんが、配置は自由に変えられます。"
+
+#: admin/includes/event_booking_table.php:512
+#: admin/includes/event_booking_table.php:667
+msgid "Email Bookees"
+msgstr "予約者にメール送信"
+
+#: admin/includes/shortcode_popup.php:61
+msgid "Display a calendar of events, similar to the admin calendar."
+msgstr "管理者カレンダーのようなイベントカレンダーで表示"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:240
+msgid "Save the current form"
+msgstr ""
+
+#: admin/js/booking-form.js:613
+msgid "Min"
+msgstr "最低"
+
+#: admin/includes/event_booking_table.php:517
+msgid "Restore Bookings"
+msgstr "予約を復元"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:35
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:66
+msgid "Save Form"
+msgstr "フォームを保存"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:42
+msgid "Form"
+msgstr "フォーム"
+
+#: admin/js/booking-form.js:1532
+msgid "Moved form element up"
+msgstr ""
+
+#: admin/settings.php:235
+msgid "Philippines"
+msgstr "フィリピン"
+
+#: admin/settings.php:158
+msgid "No"
+msgstr "いいえ"
+
+#: includes/booking-actions.php:311
+msgid "A new booking has been confirmed on your site %site_name%:"
+msgstr ""
+
+#: includes/register.php:109
+msgid "Add New Booking Form"
+msgstr "新しい予約フォームを追加"
+
+#: admin/settings.php:114
+msgid "Currency Position"
+msgstr "通貨記号の位置"
+
+#: admin/includes/event_booking_table.php:76
+msgid "Restore Booking"
+msgstr "予約を復元"
+
+#: admin/includes/shortcode_popup.php:106
+msgid "Display a Google map of venue or venues"
+msgstr "会場のGoogleマップを表示"
+
+#: admin/includes/ajax-actions.php:237
+#: admin/includes/ajax-actions.php:264
+msgid "Please provide a custom field value."
+msgstr "カスタムフィールドの値を入力してください。"
+
+#: admin/includes/event_booking_table.php:707
+#: includes/form-customiser/class-eo-booking-form-element.php:876
+#: includes/form-customiser/class-eo-booking-form-element.php:885
+#: includes/form-customiser/class-eo-booking-form-factory.php:112
+msgid "Email"
+msgstr "メール"
+
+#: admin/includes/venues.php:155
+msgid "Enter new"
+msgstr "新規追加"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:573
+#: admin/js/booking-form.js:700
+msgid "Select"
+msgstr "選択リスト"
+
+#: admin/edit.php:187
+msgid "Deselect all"
+msgstr "全てを選択解除"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:906
+#: templates/booking-form/eo-booking-form-name.php:53
+msgid "Last Name"
+msgstr "姓（例: 田中）"
+
+#: admin/includes/shortcode_popup.php:8
+msgid "Event List"
+msgstr "イベントリスト"
+
+#: admin/edit.php:145
+msgid "Sale starts"
+msgstr "販売開始"
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:110
+msgid "Element type not given"
+msgstr ""
+
+#: admin/settings.php:155
+msgid "Allow Logged-out Users to place bookings?"
+msgstr "ログアウトユーザに対しても予約を許可しますか？"
+
+#: admin/includes/event_booking_table.php:624
+msgid "Cell delimiter "
+msgstr "セルの区切り文字"
+
+#: admin/js/booking-form.js:1539
+msgid "Moved form element down"
+msgstr ""
+
+#: admin/includes/venues.php:11
+msgid "Featured Image"
+msgstr "注目画像"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1149
+#: templates/booking-form/eo-booking-form-address.php:82
+msgid "State/Province"
+msgstr "都道府県"
+
+#: admin/bookings.php:957
+msgid "Searching for email address &#8220;%s&#8221;"
+msgstr "メールアドレスにて「%s」を検索"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1407
+msgid "Attendee question"
+msgstr ""
+
+#: admin/calendar.php:113
+#: includes/register.php:81
+msgid "Confirmed"
+msgstr "確定"
+
+#: admin/includes/event_booking_table.php:675
+msgid "Subject"
+msgstr "題名"
+
+#: admin/settings.php:49
+msgid "Booking management permissions"
+msgstr "予約管理の権限"
+
+#: admin/includes/venues.php:137
+#: admin/includes/venues.php:193
+#: admin/includes/venues.php:211
+#: admin/includes/venues.php:282
+msgid "Value"
+msgstr "値"
+
+#: admin/includes/event_booking_table.php:430
+msgid "%s booking"
+msgid_plural "%s bookings"
+msgstr[0] ""
+
+#: admin/includes/shortcode_popup.php:72
+msgid "Time format"
+msgstr "時間形式"
+
+#: admin/bookings.php:855
+msgid "Booking Meta"
+msgstr "関連情報"
+
+#: admin/bookings.php:959
+msgid "Searching for bookee &#8220;%s&#8221;"
+msgstr "予約者にて「%s」を検索"
+
+#: admin/includes/event_booking_table.php:340
+msgid "Download tickets"
+msgstr "チケットをダウンロードする"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:63
+msgid "Delete Form"
+msgstr "フォームを削除"
+
+#: includes/booking-actions.php:455
+msgid "You have not selected any tickets"
+msgstr "チケットが選択されていません。"
+
+#: admin/includes/shortcode_popup.php:97
+msgid "Show only events current user is attending"
+msgstr "現在のユーザが参加中のイベントのみを表示"
+
+#: admin/edit.php:187
+msgid "Select all"
+msgstr "全てを選択"
+
+#: features/bootstrap/FeatureContext.php:436
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: admin/settings.php:24
+msgid "General"
+msgstr "一般"
+
+#: includes/class-eo-export-csv.php:168
+#: includes/class-eo-export-csv.php:314
+msgid "Booking Status"
+msgstr "予約状況"
+
+#: admin/js/booking-form.js:560
+msgid "Date format"
+msgstr "日付形式"
+
+#: admin/edit.php:163
+msgid "Sale ends"
+msgstr "販売終了"
+
+#: includes/booking-actions.php:395
+msgid "Please provide a name."
+msgstr "お名前を入力してください。"
+
+#: admin/calendar.php:56
+msgid "Attending"
+msgstr "参加"
+
+#: admin/calendar.php:115
+msgid "Pending"
+msgstr "保留"
+
+#: admin/settings.php:239
+msgid "United Kingdom"
+msgstr "イギリス"
+
+#: admin/includes/templates/booking-filters.php:17
+#: admin/includes/templates/booking-filters.php:44
+#: admin/includes/templates/booking-filters.php:59
+#: admin/includes/templates/booking-filters.php:70
+#: admin/includes/templates/booking-filters.php:81
+msgid "Remove filter"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:68
+msgid "Day"
+msgstr "日"
+
+#: admin/includes/event_ticket_table.php:23
+#: includes/class-eo-export-csv.php:311
+msgid "Ticket Reference"
+msgstr "チケット番号"
+
+#: admin/js/booking-form.js:755
+msgid "Use drop-down list"
+msgstr "ドロップダウンリストを使用"
+
+#: admin/includes/event_booking_table.php:420
+msgid "%s confirmed attendee"
+msgid_plural "%s confirmed attendees"
+msgstr[0] ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:210
+msgid "Move form element under preceding element (if it's a fieldset)"
+msgstr ""
+
+#: admin/bookings.php:560
+msgid "Booking (#%d)"
+msgstr "予約番号 (#%d)"
+
+#: admin/edit.php:17
+msgid "If you edit the event's dates you will need to update any event tickets. If you remove a date, any bookings for that date will be ignored until you re-assign them an event date."
+msgstr "イベント日を変更すれば、チケットも更新する必要があります。イベント日を削除すれば、その日の予約はイベント日を再指定するまで無視されます。"
+
+#: admin/settings.php:188
+#: admin/settings.php:254
+#: gateways/class-eo-gateway.php:208
+msgid "Disable"
+msgstr "使用しない"
+
+#: admin/edit.php:41
+#: admin/edit.php:128
+msgid "Spaces"
+msgstr "枚数"
+
+#: admin/bookings.php:685
+#: admin/bookings.php:707
+msgid "OK"
+msgstr ""
+
+#: admin/settings.php:290
+msgid "If enabled, this will form the body of the e-mail instructing the bookee on how to make payment"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:122
+msgid "Dimensions"
+msgstr "寸法・サイズ"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:753
+#: admin/js/booking-form.js:485
+#: admin/js/booking-form.js:488
+msgid "HTML"
+msgstr ""
+
+#: admin/js/booking-form.js:561
+msgid "Opening date"
+msgstr "開始日"
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:89
+#: admin/js/booking-form.js:465
+msgid "Select a payment gateway"
+msgstr "支払い方法"
+
+#: admin/js/booking-form.js:613
+msgid "Range"
+msgstr "範囲"
+
+#: includes/register.php:95
+msgid "Cancelled"
+msgstr "キャンセル"
+
+#: admin/bookings.php:107
+msgid "You are not allowed to restore this booking."
+msgstr "この予約を復元する権限がありません。"
+
+#: admin/settings.php:181
+#: admin/settings.php:250
+#: gateways/class-eo-gateway.php:203
+msgid "Live Switch"
+msgstr "使用可否"
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:385
+msgid "File not found"
+msgstr ""
+
+#: includes/class-eo-export-csv.php:165
+msgid "Total Price"
+msgstr "合計金額"
+
+#: admin/includes/shortcode_popup.php:136
+#: includes/functions.php:706
+msgid "Category"
+msgstr "カテゴリ"
+
+#: admin/includes/event_booking_table.php:647
+msgid "Download"
+msgstr "ダウンロード"
+
+#: admin/js/booking-form.js:730
+msgid "Terms"
+msgstr "利用規約"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:70
+msgid "Export form"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1327
+msgid "Submit button"
+msgstr "完了ボタン"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:21
+msgid "Create New Form"
+msgstr "新しいフォームを追加"
+
+#: admin/includes/shortcode_popup.php:148
+#: includes/shortcodes.php:305
+#: admin/js/booking-form.js:409
+msgid "State"
+msgstr "都道府県"
+
+#: admin/edit.php:38
+#: admin/includes/event_ticket_table.php:24
+#: includes/booking-actions.php:95
+#: includes/class-eo-export-csv.php:310
+#: includes/email.php:421
+#: templates/eo-ticket-picker.php:26
+msgid "Ticket"
+msgstr "チケット"
+
+#: admin/bookings.php:794
+#: admin/bookings.php:797
+msgid "Orphaned booking"
+msgstr "親なし予約"
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:113
+msgid "Element type \"%s\" not recognised"
+msgstr ""
+
+#: admin/js/booking-form.js:613
+msgid "Max"
+msgstr "最高"
+
+#: includes/booking-actions.php:46
+msgid "A new booking has been made on your site %site_name%:"
+msgstr ""
+
+#: admin/includes/venues.php:166
+msgid "Add Custom Field"
+msgstr "カスタムフィールドを追加"
+
+#: admin/edit.php:129
+msgid "This indicates the quanity available of this ticket type. If you are selling tickets for individual occurrences, then this limit applies to each occurrence."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-controller.php:381
+msgid "You do not have permission to import forms."
+msgstr ""
+
+#: admin/settings.php:232
+msgid "Italy"
+msgstr "イタリア"
+
+#: admin/bookings.php:408
+#: admin/bookings.php:804
+#: admin/bookings.php:817
+#: includes/class-eo-export-csv.php:158
+#: includes/class-eo-export-csv.php:304
+#: includes/functions.php:681
+#: includes/shortcodes.php:192
+#: templates/event-booking-history.php:17
+msgid "Event"
+msgstr "イベント"
+
+#: admin/js/booking-form.js:1853
+msgid "Form element deleted"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:9
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: includes/functions.php:758
+#: includes/shortcodes.php:358
+msgid "To"
+msgstr "から"
+
+#: admin/edit.php:52
+#: admin/includes/event_ticket_table.php:18
+msgid "No tickets"
+msgstr "チケットがありません"
+
+#: admin/bookings.php:81
+msgid "You are not allowed to cancel this booking."
+msgstr "この予約をキャンセルする権限がありません。"
+
+#: admin/bookings.php:946
+msgid "Bookings for event &#8220;%s&#8221;"
+msgstr "イベント「%s」の予約"
+
+#: admin/includes/event_booking_table.php:466
+msgid "Current page"
+msgstr "現在ページ"
+
+#: admin/edit.php:194
+msgid "You have the option of selling tickets for only specific dates, for instance you may wish to make a cheaper tickets available for only the first occurrence."
+msgstr "特定の日にだけチケットを販売することが可能です。（例: 初回限定の割安チケットなど）"
+
+#: admin/js/booking-form.js:416
+#: admin/js/booking-form.js:423
+#: admin/js/booking-form.js:445
+#: admin/js/booking-form.js:458
+#: admin/js/booking-form.js:470
+#: admin/js/booking-form.js:503
+#: admin/js/booking-form.js:525
+#: admin/js/booking-form.js:541
+#: admin/js/booking-form.js:562
+#: admin/js/booking-form.js:576
+#: admin/js/booking-form.js:614
+#: admin/js/booking-form.js:660
+#: admin/js/booking-form.js:681
+#: admin/js/booking-form.js:693
+#: admin/js/booking-form.js:714
+#: admin/js/booking-form.js:732
+#: admin/js/booking-form.js:749
+msgid "CSS Class"
+msgstr ""
+
+#: admin/includes/shortcode_popup.php:51
+#: admin/includes/shortcode_popup.php:90
+msgid "Events at venues"
+msgstr "会場でのイベント"
+
+#: admin/bookings.php:487
+msgid "This booking could not be confirmed for the following reasons"
+msgstr "この予約は次の理由によって確定されませんでした。"
+
+#: admin/js/booking-form.js:668
+msgid "Radio"
+msgstr "ラジオ"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1076
+#: admin/js/booking-form.js:646
+msgid "Multiselect"
+msgstr ""
+"選択リスト\n"
+"（複数選択可）"
+
+#: admin/calendar.php:117
+#: includes/booking-actions.php:112
+#: includes/email.php:439
+#: templates/eo-ticket-picker.php:92
+msgid "Total"
+msgstr "合計"
+
+#: admin/bookings.php:544
+msgid "Booking Details"
+msgstr "予約詳細"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:782
+#: admin/js/booking-form.js:451
+msgid "Fieldset"
+msgstr "テキスト（入力欄なし）"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:220
+msgid "Toggle display the selected element's settings"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:736
+#: admin/js/booking-form.js:476
+#: admin/js/booking-form.js:480
+msgid "Hook"
+msgstr ""
+
+#: admin/includes/event_booking_table.php:615
+msgid "2. CSV Export Settings"
+msgstr "２。CSV出力設定"
+
+#: admin/js/booking-form.js:407
+msgid "Second line"
+msgstr ""
+
+#: includes/register.php:55
+msgid "Search Bookings"
+msgstr "予約を検索"
+
+#: includes/booking-actions.php:54
+#: includes/booking-actions.php:319
+msgid "You can view the <a href=\"%booking_admin_url%\">booking here</a>"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:556
+msgid "Input"
+msgstr "入力欄（1行）"
+
+#: includes/shortcodes.php:333
+msgid "All countries"
+msgstr "全ての国"
+
+#: admin/js/booking-form.js:1137
+msgid "Form deleted"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:905
+#: templates/booking-form/eo-booking-form-name.php:33
+msgid "First Name"
+msgstr "名（例: 結衣）"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:937
+#: includes/form-customiser/class-eo-booking-form-element.php:946
+#: admin/js/booking-form.js:598
+#: admin/js/booking-form.js:599
+msgid "Number"
+msgstr "入力欄（数字のみ）"
+
+#: admin/includes/shortcode_popup.php:19
+msgid "Events starting after"
+msgstr "イベント開始後"
+
+#: includes/register.php:52
+msgid "New Bookings"
+msgstr "新しい予約"
+
+#: includes/class-eo-user-attending-widget.php:15
+msgid "Displays a list of events a user is attending"
+msgstr "ユーザが参加中のイベントリストを表示"
+
+#: admin/bookings.php:795
+msgid "Select date"
+msgstr "日付を選択"
+
+#: admin/settings.php:134
+msgid "Return to form"
+msgstr ""
+
+#: includes/booking-form-handler.php:165
+msgid "Not got an account? <a href=\"#\" class=\"eo-booking-no-account-toggle\">Click here</a>."
+msgstr "まだ会員ではありませんか？ <a href=\"#\" class=\"eo-booking-no-account-toggle\">会員登録はこちら</a>."
+
+#: admin/bookings.php:412
+#: admin/bookings.php:603
+#: admin/calendar.php:102
+#: templates/event-booking-history.php:20
+msgid "Status"
+msgstr "状態"
+
+#: includes/class-eo-export-csv.php:312
+msgid "Ticket Price"
+msgstr "チケット価格"
+
+#: admin/js/booking-form.js:531
+msgid "Antispam"
+msgstr "スパム防止"
+
+#: admin/includes/shortcode_popup.php:25
+msgid "Events starting before"
+msgstr "イベント開始前"
+
+#: admin/bookings.php:766
+msgid "Booking Date"
+msgstr "予約日"
+
+#: admin/settings.php:286
+msgid "Offline Payment (Email) Instructions"
+msgstr ""
+
+#: includes/functions.php:772
+#: includes/shortcodes.php:375
+msgid "Search"
+msgstr "検索"
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:119
+msgid "The element ID \"%s\" is not allowed"
+msgstr ""
+
+#: includes/booking-actions.php:744
+msgid "You must be logged in to cancel bookings."
+msgstr "予約をキャンセルするためにはログインを行ってください。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1210
+msgid "Please enter a state / province"
+msgstr ""
+
+#: admin/js/booking-form.js:764
+msgid "Simple Booking Mode only comes into effect if:<ul><li>This option is selected.</li><li>The event has only one ticket currently on sale.</li><li>You are booking by series, or the event is non-recurring (no date needs to be selected).</li></ul>Under those conditions the date and ticket selection is hidden from the booking form, and the booking consist of only one ticket."
+msgstr "簡単予約モードは、以下の場合のみ有効になります。<ul><li>・このオプションが選択されている</li><li>・チケットが1種類のみのイベント</li><li>・シリーズ別の予約、または繰り返しのないイベント</li></ul>上記の条件が揃えば、予約フォームにて日付やチケットの選択肢が表示されまくなります。"
+
+#: includes/gateways.php:164
+msgid "Thank you for your booking. You shall receive an e-mail containing your tickets once we have confirmed payment"
+msgstr "ご予約、ありがとうございます。参加が確定されたら、チケットのメールをお送りしますので、少々お待ちください。"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:134
+msgid "This form element asks the user a simple random maths question in order to help prevent spam"
+msgstr "この項目は、ユーザにスパム防止用の簡単な数学の質問を表示します。"
+
+#: admin/includes/shortcode_popup.php:126
+msgid "Width:"
+msgstr "幅"
+
+#: includes/register.php:302
+msgid "Minute"
+msgstr "分"
+
+#: admin/includes/event_booking_table.php:609
+msgid "Select booking fields to be included in export"
+msgstr "書き出す予約項目を選択"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:260
+#: includes/form-customiser/class-eo-booking-form-element.php:267
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:37
+#: includes/form-customiser/class-eo-booking-form-validate-visitor.php:49
+msgid "<strong>ERROR</strong>: Please fill in all required fields"
+msgstr "<strong>エラー</strong>: 全ての必須項目を入力してください。"
+
+#: admin/settings.php:10
+msgid "Booking Form"
+msgstr "予約フォーム"
+
+#: includes/register.php:301
+msgid "Hour"
+msgstr "時間"
+
+#: admin/settings.php:55
+msgid "Role"
+msgstr "役割"
+
+#: admin/includes/templates/booking-filters.php:73
+msgid "Booking ID:"
+msgstr ""
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:29
+msgid "This form element allows the user to select their ticket(s). It cannot be removed but can be placed anywhere in the booking form."
+msgstr "この項目はユーザがチケットを選択できるようにします。削除はできませんが、配置は自由に変えられます。"
+
+#: admin/bookings.php:498
+msgid "I want to confirm anyway"
+msgstr "とりあえず確定する"
+
+#: admin/calendar.php:63
+msgid "Export bookings"
+msgstr "予約内容を書き出す"
+
+#: admin/settings.php:312
+msgid "E-mail template"
+msgstr "メールテンプレート"
+
+#: admin/settings.php:159
+msgid "Yes but register an account for them"
+msgstr "はい。入力情報でアカウントを自動作成します。"
+
+#: admin/settings.php:50
+msgid "Set permissions for booking management"
+msgstr "予約管理の権限を設定します"
+
+#: admin/includes/shortcode_popup.php:124
+msgid "Height:"
+msgstr "高さ"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:925
+msgid "Please provide a last name"
+msgstr ""
+
+#: admin/settings.php:174
+msgid "A new booking is made"
+msgstr "新しい予約が入った時"
+
+#: admin/includes/event_booking_table.php:60
+#: admin/includes/event_booking_table.php:80
+#: includes/shortcodes.php:111
+msgid "Cancel booking"
+msgstr "予約をキャンセル"
+
+#: admin/includes/shortcode_popup.php:156
+msgid "Date range"
+msgstr "日付範囲"
+
+#: admin/includes/venues.php:278
+msgid "Key"
+msgstr "キー"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:636
+msgid "Radio Buttons"
+msgstr "ラジオボタン"
+
+#: includes/register.php:50
+msgid "Add New Booking"
+msgstr "新しい予約を追加"
+
+#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:47
+#: includes/register.php:485
+msgid "Settings"
+msgstr "設定"
+
+#: admin/includes/event_booking_table.php:633
+msgid "Text delimiter "
+msgstr "テキストの区切り文字"
+
+#: includes/register.php:507
+msgid "There has been an error with Event Organiser Pro. The <code>eo_booking_tickets</code> table is missing. Please try re-installing the plugin."
+msgstr "Event Organiser Proにてエラーがありました。<code>eo_booking_tickets</code>テーブルが見つかりません。プラグインを再インストールしてください。"
+
+#: admin/includes/event_booking_table.php:692
+#: admin/settings.php:351
+msgid "See full list"
+msgstr "全体リストを見る"
+
+#: templates/event-booking-history.php:103
+msgid "You have not made any bookings"
+msgstr "予約内容がありません"
+
+#: includes/booking-actions.php:740
+#: includes/booking-actions.php:777
+msgid "You do not have permission to cancel this booking."
+msgstr "この予約をキャンセルする権限がありません。"
+
+#: admin/includes/ajax-actions.php:261
+msgid "Please provide a custom field name."
+msgstr "カスタムフィールド名を入力してください。"
+
+#: admin/includes/shortcode_popup.php:10
+msgid "Venue Map"
+msgstr "会場の地図"
+
+#: includes/booking-form-handler.php:70
+msgid "<strong>Error:</strong> This event has non-free tickets and no gateway has been enabled. Please enable a gateway in <em>Settings > Event Organiser > Bookings </em>. This notice only appears to admins."
+msgstr "このイベントは有料ですが、支払い方法が指定されていません。設定 > Event Organiser > 予約 にて支払い方法を指定してください。この通知は管理者にのみ、表示されます。"
+
+#: includes/register.php:111
+msgid "New Booking Forms"
+msgstr "新しい予約フォーム"
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:281
+msgid "Create an account (optional)"
+msgstr "上記の内容でアカウントを作成する"
+
+#: admin/includes/event_booking_table.php:694
+msgid "<strong>Note:</strong> your hosting provider may limit the number of e-mails you can send in a 24 hour period. Plug-ins are available that <a href=\"%s\" target=\"_blank\">work around these restrictions.</a>"
+msgstr "<strong>注意: </strong>プロバイダーが1日に送信可能なメール数を制限することがあります。<a href=\"%s\" target=\"_blank\">この制限を回避</a>するプラグインを活用できます。"
+
+#: admin/settings.php:228
+msgid "Canada"
+msgstr "カナダ"
+
+#: admin/settings.php:225
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: admin/js/booking-form.js:1577
+msgid "Moved form element left"
+msgstr ""
+
+#: admin/settings.php:147
+msgid "Reserve Pending Tickets"
+msgstr "保留状態を設ける"
+
+#: includes/register.php:297
+msgid "Show dates"
+msgstr "日付を表示"
+
+#: admin/includes/event_booking_table.php:511
+msgid "Cancel Bookings"
+msgstr "予約をキャンセル"
+
+#: includes/bookable/class-event.php:52
+msgid "%s: only %d spaces remaining"
+msgstr ""
+
+#: admin/js/booking-form.js:404
+msgid "Address includes"
+msgstr "住所に使う項目"
+
+#: admin/includes/shortcode_popup.php:165
+msgid "You can view the full range of attributes for these shortcodes on the <a href=\"%s\" target=\"_blank\">plug-in website</a>"
+msgstr ""
+
+#: admin/settings.php:229
+msgid "China"
+msgstr "中国"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:796
+#: includes/form-customiser/class-eo-booking-form-element.php:801
+#: admin/js/booking-form.js:720
+#: admin/js/booking-form.js:721
+msgid "Terms & Conditions"
+msgstr "利用規約"
+
+#: admin/bookings.php:677
+msgid "Edit name"
+msgstr ""
+
+#: admin/js/booking-form.js:761
+#: admin/js/booking-form.js:763
+msgid "Simple Booking Mode"
+msgstr "簡単予約モード"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1059
+msgid "Hidden"
+msgstr "非表示"
+
+#: admin/includes/shortcode_popup.php:152
+#: includes/form-customiser/class-eo-booking-form-element.php:1151
+#: includes/shortcodes.php:327
+#: templates/booking-form/eo-booking-form-address.php:121
+#: admin/js/booking-form.js:411
+msgid "Country"
+msgstr "国"
+
+#: admin/bookings.php:903
+msgid "Gateway Response"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1133
+#: includes/form-customiser/class-eo-booking-form-element.php:1138
+#: admin/js/booking-form.js:394
+#: admin/js/booking-form.js:395
+msgid "Address"
+msgstr "住所"
+
+#: admin/edit.php:115
+msgid "Price:"
+msgstr "価格"
+
+#: admin/includes/event_booking_table.php:308
+#: admin/includes/event_booking_table.php:312
+msgid "Filter"
+msgstr ""
+
+#: admin/settings.php:319
+msgid "Custom Templates"
+msgstr "自作テンプレート"
+
+#: admin/js/booking-form.js:1144
+msgid "No form found... <a href=\"#\" title=\"Create a new form\" class=\"eo-bfc-add-form-btn\">create new</a>"
+msgstr "フォームがありません... <a href=\"#\" title=\"Create a new form\" class=\"eo-bfc-add-form-btn\">新規登録</a>"
+
+#: includes/booking-actions.php:408
+msgid "You must be logged in to place a booking"
+msgstr "予約のためにはログインしてください。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1250
+#: admin/js/booking-form.js:770
+msgid "Ticket picker"
+msgstr "チケット選択のポップアップ"
+
+#: includes/shortcodes.php:510
+#: templates/user-attending-widget-event-list.php:41
+msgid "on"
+msgstr ""
+
+#: admin/settings.php:26
+#: includes/gateways.php:57
+msgid "Offline Payment"
+msgstr "会場払い"
+
+#: admin/js/booking-form.js:513
+msgid "Text field"
+msgstr "入力欄（複数行）"
+
+#: admin/js/booking-form.js:1035
+msgid "Form element added"
+msgstr ""
+
+#: includes/register.php:116
+msgid "No Booking Forms found in Trash"
+msgstr "ゴミ箱にて予約フォームがありません"
+
+#: includes/class-eo-user-attending-widget.php:28
+msgid "Number of events"
+msgstr "イベント数"
+
+#: admin/settings.php:106
+msgid "Currency"
+msgstr "通貨"
+
+#: admin/includes/templates/booking-filters.php:20
+msgid "Select an event:"
+msgstr ""
+
+#: admin/bookings.php:633
+#: admin/includes/event_booking_table.php:62
+msgid "Cancel Booking"
+msgstr "予約をキャンセル"
+
+#: includes/gateways.php:173
+msgid "Thank you for your booking. You shall receive an e-mail containing your tickets shortly"
+msgstr "ご予約、ありがとうございます。後ほどチケットのメールをお送りしますので、少々お待ちください。"
+
+#: admin/bookings.php:85
+msgid "Error in cancelling the booking."
+msgstr "予約のキャンセルにてエラーが発生しました。"
+
+#: includes/gateways.php:168
+msgid "Thank you for registering"
+msgstr "ご登録、ありがとうございます。"
+
+#: admin/settings.php:230
+msgid "France"
+msgstr "フランス"
+
+#: admin/bookings.php:406
+#: admin/bookings.php:545
+#: admin/calendar.php:98
+#: includes/form-customiser/class-eo-booking-form-factory.php:173
+msgid "Booking"
+msgstr "予約番号"
+
+#: admin/edit.php:220
+msgid "Cap booking at %s places"
+msgstr "1人当たり %s 枚までに限定する"
+
+#: admin/settings.php:274
+msgid "Offline Payment Email"
+msgstr ""
+
+#: includes/booking-actions.php:309
+msgid "Booking Confirmed"
+msgstr "予約を確定"
+
+#: admin/includes/event_ticket_table.php:52
+msgid "Remove"
+msgstr "削除"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:975
+msgid "Please enter a number between %1$s and %2$s."
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1146
+msgid "Street Address"
+msgstr "番地"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1289
+#: admin/js/booking-form.js:464
+msgid "Gateway picker"
+msgstr "支払いの方法の選択肢"
+
+#: admin/bookings.php:411
+#: includes/class-eo-export-csv.php:159
+#: includes/class-eo-export-csv.php:305
+#: includes/form-customiser/class-eo-booking-form-element.php:835
+#: includes/form-customiser/class-eo-booking-form-element.php:864
+#: templates/eo-ticket-picker.php:24
+#: templates/event-booking-history.php:16
+#: admin/js/booking-form.js:547
+#: admin/js/booking-form.js:548
+msgid "Date"
+msgstr "日付"
+
+#: admin/edit.php:169
+msgid "Bookings will be closed when an occurrences starts."
+msgstr "イベントの開始後は、予約を受け付けません。"
+
+#: admin/bookings.php:833
+msgid "Payment Gateway"
+msgstr "支払い方法"
+
+#: admin/js/booking-form.js:524
+#: admin/js/booking-form.js:612
+msgid "Placeholder"
+msgstr "入力例"
+
+#: includes/register.php:57
+msgid "No Bookings found in Trash"
+msgstr "ゴミ箱にて予約がありません"
+
+#: admin/includes/event_booking_table.php:333
+msgid "Download bookings"
+msgstr "予約内容をダウンロードする"
+
+#: admin/settings.php:298
+msgid "Offline Payment Email Subject"
+msgstr ""
+
+#: admin/js/booking-form.js:414
+#: admin/js/booking-form.js:443
+#: admin/js/booking-form.js:522
+#: admin/js/booking-form.js:558
+#: admin/js/booking-form.js:610
+#: admin/js/booking-form.js:658
+#: admin/js/booking-form.js:679
+#: admin/js/booking-form.js:712
+#: admin/js/booking-form.js:729
+#: admin/js/booking-form.js:747
+msgid "Required"
+msgstr "必須"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:1150
+#: templates/booking-form/eo-booking-form-address.php:101
+#: admin/js/booking-form.js:410
+msgid "Postcode"
+msgstr "郵便番号"
+
+#: includes/booking-actions.php:543
+msgid "Registration failed. Please contact an <a href=\"mailto:%s\">administrator</a>."
+msgstr "登録に失敗しました。<a href=\"mailto:%s\">管理者</a>に連絡してください。"
+
+#: includes/form-customiser/class-eo-booking-form-element.php:803
+#: admin/js/booking-form.js:723
+msgid "I have read and agree to the terms and conditions detailed above."
+msgstr "上記内容を確認し、同意します。"
+
+#: admin/includes/shortcode_popup.php:133
+msgid "Allow your users to search events. Select which filters they can use."
+msgstr "ユーザがイベントを検索できるように許可します。ユーザが利用できるフィルターを選択してください。"
+
+#: includes/register.php:202
+msgid "View all countries"
+msgstr "全ての国を見る"
+
+#: admin/js/booking-form.js:731
+msgid "Checkbox label"
+msgstr "チェックボックスの表示名"
+
+#: admin/includes/shortcode_popup.php:31
+msgid "Events ending after"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element.php:769
+#: admin/js/booking-form.js:687
+#: admin/js/booking-form.js:688
+msgid "Section"
+msgstr "仕切り"
+
+#: admin/settings.php:195
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/form-customiser/class-eo-booking-form-element-factory.php:116
+msgid "No element ID provided"
+msgstr ""
+
+#: includes/register.php:204
+msgid "View all cities"
+msgstr "全ての市区町村を見る"
+
+#: includes/register.php:203
+msgid "View all states"
+msgstr "全ての都道府県を見る"
+
+#: includes/form-customiser/class-eo-booking-form-factory.php:100
+#: includes/form-customiser/class-eo-booking-form-factory.php:193
+#: admin/js/booking-form.js:570
+msgid "Book"
+msgstr "予約"
+
+#: admin/edit.php:90
+#: admin/includes/venues.php:280
+msgid "Delete"
+msgstr "削除"
+
+#: admin/bookings.php:715
+msgid "View bookee profile"
+msgstr ""
+
+#: includes/register.php:56
+msgid "No Bookings found"
+msgstr "予約がありません"
+
+#: admin/edit.php:140
+msgid "Tickets on sale:"
+msgstr "チケット販売日"
+
+#: admin/includes/shortcode_popup.php:67
+msgid "Week"
+msgstr "週"
+
+#: admin/includes/venues.php:145
+msgid "&mdash; Select &mdash;"
+msgstr "- 選択 -"
+
+#: includes/booking-actions.php:467
+#: includes/booking-actions.php:477
+#: includes/booking-actions.php:486
+msgid "Sorry, but the requested number of tickets is unavailable."
+msgstr "ごめんなさい。購入可能な枚数を超えています。"
+
+#: admin/bookings.php:407
+#: admin/calendar.php:99
+#: includes/booking-actions.php:49
+#: includes/booking-actions.php:314
+#: includes/class-eo-export-csv.php:160
+#: includes/class-eo-export-csv.php:306
+msgid "Bookee"
+msgstr "予約者"
+
+#: admin/settings.php:234
+msgid "Netherlands"
+msgstr "オランダ"
+
+#: admin/bookings.php:638
+#: admin/includes/venues.php:281
+msgid "Update"
+msgstr "更新"
+
+#: admin/bookings.php:478
+msgid "The event associated with this booking could not be found. It may have been deleted."
+msgstr "この予約のイベントが見つかりません。イベントが削除された可能性があります。"
+
+#: admin/js/booking-form.js:502
+msgid "Require second name"
+msgstr ""
+
+#: admin/edit.php:224
+msgid "Do not cap"
+msgstr ""
+
+#: includes/functions.php:754
+#: includes/shortcodes.php:354
+msgid "Select dates"
+msgstr "日付を選択"
+
+#: admin/settings.php:213
+msgid "Style your PayPal payment page"
+msgstr ""
