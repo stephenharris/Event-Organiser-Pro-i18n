@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:35:59+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:37:08+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1362,7 +1362,7 @@ msgstr "カスタムフィールドを追加"
 
 #: admin/edit.php:129
 msgid "This indicates the quanity available of this ticket type. If you are selling tickets for individual occurrences, then this limit applies to each occurrence."
-msgstr ""
+msgstr "これは、このチケットタイプで使用可能なチケット数を示します。個々の繰り返しイベントごとにチケットを販売している場合、この制限は繰り返しイベントごとに適用されます。"
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:381
 msgid "You do not have permission to import forms."
