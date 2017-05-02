@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:29:35+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:29:44+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1081,7 +1081,7 @@ msgstr "販売開始"
 
 #: includes/form-customiser/class-eo-booking-form-element-factory.php:110
 msgid "Element type not given"
-msgstr ""
+msgstr "要素タイプが指定されていません"
 
 #: admin/settings.php:155
 msgid "Allow Logged-out Users to place bookings?"
