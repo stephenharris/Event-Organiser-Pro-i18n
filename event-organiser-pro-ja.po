@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:30:04+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:30:45+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1135,7 +1135,7 @@ msgstr "値"
 #: admin/includes/event_booking_table.php:430
 msgid "%s booking"
 msgid_plural "%s bookings"
-msgstr[0] ""
+msgstr[0] "%s 予約  / %s 予約"
 
 #: admin/includes/shortcode_popup.php:72
 msgid "Time format"
