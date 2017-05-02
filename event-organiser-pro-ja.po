@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:34:49+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:34:56+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1222,7 +1222,7 @@ msgstr[0] "%s確認済出席者 /%s確認済出席者"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:210
 msgid "Move form element under preceding element (if it's a fieldset)"
-msgstr ""
+msgstr "前の要素の下にフォーム要素を移動する（フィールドセットの場合）"
 
 #: admin/bookings.php:560
 msgid "Booking (#%d)"
