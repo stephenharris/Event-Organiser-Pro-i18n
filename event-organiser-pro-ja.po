@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:29:53+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:30:04+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1110,7 +1110,7 @@ msgstr "メールアドレスにて「%s」を検索"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1407
 msgid "Attendee question"
-msgstr ""
+msgstr "出席者の質問"
 
 #: admin/calendar.php:113
 #: includes/register.php:81
