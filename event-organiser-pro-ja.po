@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:34:24+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:34:49+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1218,7 +1218,7 @@ msgstr "ドロップダウンリストを使用"
 #, fuzzy
 msgid "%s confirmed attendee"
 msgid_plural "%s confirmed attendees"
-msgstr[0] "％sは出席者を確認しました/％sは出席者を確認しました"
+msgstr[0] "%s確認済出席者 /%s確認済出席者"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:210
 msgid "Move form element under preceding element (if it's a fieldset)"
