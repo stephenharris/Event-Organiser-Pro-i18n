@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:30:45+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:30:55+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1204,7 +1204,7 @@ msgstr "イギリス"
 #: admin/includes/templates/booking-filters.php:70
 #: admin/includes/templates/booking-filters.php:81
 msgid "Remove filter"
-msgstr ""
+msgstr "フィルタを削除"
 
 #: admin/includes/event_ticket_table.php:23
 #: includes/class-eo-export-csv.php:311
