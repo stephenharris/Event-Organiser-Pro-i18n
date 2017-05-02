@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:38:49+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:47:32+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1350,7 +1350,6 @@ msgid "Max"
 msgstr "最高"
 
 #: includes/booking-actions.php:46
-#, fuzzy
 msgid "A new booking has been made on your site %site_name%:"
 msgstr "あなたのサイトで新しい予約が行われました%site_name%:"
 
@@ -1568,8 +1567,9 @@ msgid "Search"
 msgstr "検索"
 
 #: includes/form-customiser/class-eo-booking-form-element-factory.php:119
+#, fuzzy
 msgid "The element ID \"%s\" is not allowed"
-msgstr ""
+msgstr "要素ID「％s」は許可されていません"
 
 #: includes/booking-actions.php:744
 msgid "You must be logged in to cancel bookings."
