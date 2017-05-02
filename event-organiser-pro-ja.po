@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:19:52+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:20:00+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -321,7 +321,7 @@ msgstr "予約が完了したら、ユーザーをリダイレクトします"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:215
 msgid "Move form element out from under parent element"
-msgstr ""
+msgstr "親要素の下からフォーム要素を移動する"
 
 #: templates/eo-booking-form.php:19
 msgid "Bookings are no longer available for this event."
