@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T14:42:43+00:00\n"
+"PO-Revision-Date: 2017-05-02T14:42:59+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1743,7 +1743,7 @@ msgstr "%s: 残りのスペースは%d 個だけです"
 
 #: admin/js/booking-form.js:404
 msgid "Address includes"
-msgstr "住所に使う項目"
+msgstr "住所を含む"
 
 #: admin/includes/shortcode_popup.php:165
 msgid "You can view the full range of attributes for these shortcodes on the <a href=\"%s\" target=\"_blank\">plug-in website</a>"
