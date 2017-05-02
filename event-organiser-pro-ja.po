@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:37:13+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:37:18+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1374,7 +1374,7 @@ msgstr "イタリア"
 
 #: admin/js/booking-form.js:1853
 msgid "Form element deleted"
-msgstr ""
+msgstr "フォーム要素が削除されました"
 
 #: admin/includes/shortcode_popup.php:9
 msgid "Calendar"
