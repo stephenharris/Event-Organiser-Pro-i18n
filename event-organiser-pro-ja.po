@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:19:40+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:19:47+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -294,7 +294,7 @@ msgstr "予約番号"
 
 #: admin/js/booking-form.js:1001
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "キーボードショートカット"
 
 #: admin/bookings.php:846
 #: includes/class-eo-export-csv.php:166
