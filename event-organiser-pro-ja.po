@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:26:59+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:27:04+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -789,7 +789,7 @@ msgstr "予約番号にて「%s」を検索"
 
 #: admin/includes/event_booking_table.php:168
 msgid "Y/m/d"
-msgstr ""
+msgstr "Y/m/d"
 
 #: admin/js/booking-form.js:442
 #: admin/js/booking-form.js:657
