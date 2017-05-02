@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T14:27:43+00:00\n"
+"PO-Revision-Date: 2017-05-02T14:28:03+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1952,7 +1952,7 @@ msgstr "チェックボックスの表示名"
 
 #: admin/includes/shortcode_popup.php:31
 msgid "Events ending after"
-msgstr "イベント終了前"
+msgstr "イベント終了後"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:769
 #: admin/js/booking-form.js:687
