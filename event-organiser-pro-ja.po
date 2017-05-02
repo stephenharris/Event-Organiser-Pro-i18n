@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:17:27+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:17:36+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -206,7 +206,7 @@ msgstr "イベント終了前"
 
 #: admin/includes/event_booking_table.php:513
 msgid "Confirm Bookings"
-msgstr ""
+msgstr "予約の確認"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:235
 msgid "Open shorcut help"
