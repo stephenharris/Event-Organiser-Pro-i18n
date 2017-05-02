@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:27:31+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:27:35+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -814,7 +814,6 @@ msgstr "一覧表に戻る"
 
 #: includes/bookable/class-event.php:97
 #: includes/bookable/class-event.php:145
-#, fuzzy
 msgid "Ticket with ID %s does not exist."
 msgstr "ID%s のチケットは存在しません。"
 
