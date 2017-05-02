@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T14:39:49+00:00\n"
+"PO-Revision-Date: 2017-05-02T14:40:07+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1311,7 +1311,7 @@ msgstr "利用規約"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:70
 msgid "Export form"
-msgstr "フォームの書き出し"
+msgstr "フォームをエクスポート"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1327
 msgid "Submit button"
