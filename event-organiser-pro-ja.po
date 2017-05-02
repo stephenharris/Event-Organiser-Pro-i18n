@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:19:11+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:19:30+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -270,7 +270,7 @@ msgstr "予約内容を見る"
 
 #: admin/settings.php:215
 msgid "PayPal allows you to tailor the booking payment page to you site. For more information, <a href=\"%s\" target=\"_blank\">see this tutorial</a>"
-msgstr ""
+msgstr "PayPalでは、予約支払いページをあなたのサイトに合わせることができます。詳細については、<a href=\"%s\" target=\"_blank\">このチュートリアルをご覧ください</a>"
 
 #: admin/includes/event_booking_table.php:477
 msgid "Go to the next page"
