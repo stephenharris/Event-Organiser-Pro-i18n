@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:49:26+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:49:31+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1814,7 +1814,7 @@ msgstr "入力欄（複数行）"
 
 #: admin/js/booking-form.js:1035
 msgid "Form element added"
-msgstr ""
+msgstr "フォーム要素が追加されました"
 
 #: includes/register.php:116
 msgid "No Booking Forms found in Trash"
