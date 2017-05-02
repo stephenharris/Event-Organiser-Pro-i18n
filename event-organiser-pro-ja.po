@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:26:44+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:26:53+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -737,7 +737,7 @@ msgstr "入力された値は数値ではありません。"
 
 #: admin/includes/templates/booking-filters.php:29
 msgid "Select a date"
-msgstr ""
+msgstr "日付を選択"
 
 #: admin/bookings.php:787
 msgid "Change"
