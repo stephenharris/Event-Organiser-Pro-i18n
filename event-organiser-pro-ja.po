@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:35:06+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:35:11+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1250,7 +1250,7 @@ msgstr "OK"
 
 #: admin/settings.php:290
 msgid "If enabled, this will form the body of the e-mail instructing the bookee on how to make payment"
-msgstr "これが有効になっている場合、これは電子マネーの本体を形成し、お金を払う方法をブーキーに指示します"
+msgstr "これが有効になっている場合、これは電子マネーの本体を形成し、お金を払う方法をbookeeに指示します"
 
 #: admin/includes/shortcode_popup.php:122
 msgid "Dimensions"
