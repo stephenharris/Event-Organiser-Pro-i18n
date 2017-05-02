@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:29:07+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:29:23+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1021,8 +1021,9 @@ msgid "Philippines"
 msgstr "フィリピン"
 
 #: includes/booking-actions.php:311
+#, fuzzy
 msgid "A new booking has been confirmed on your site %site_name%:"
-msgstr ""
+msgstr "あなたのサイト％site_name％に新しい予約が確認されました："
 
 #: includes/register.php:109
 msgid "Add New Booking Form"
