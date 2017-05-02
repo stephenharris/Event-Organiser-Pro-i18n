@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:38:11+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:38:35+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1562,7 +1562,7 @@ msgstr "予約日"
 
 #: admin/settings.php:286
 msgid "Offline Payment (Email) Instructions"
-msgstr ""
+msgstr "請求書払い／会場払い（メール）手順"
 
 #: includes/functions.php:772
 #: includes/shortcodes.php:375
