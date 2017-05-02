@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:26:09+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:26:17+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -581,7 +581,7 @@ msgstr "編集するフォームを選択:"
 
 #: admin/js/booking-form.js:1701
 msgid "Booking form saved"
-msgstr ""
+msgstr "予約フォームを保存しました"
 
 #: includes/booking-actions.php:463
 msgid "Please select a ticket."
