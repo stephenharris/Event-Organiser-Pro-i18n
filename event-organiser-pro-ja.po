@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:50:04+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:50:09+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1873,8 +1873,9 @@ msgid "Remove"
 msgstr "削除"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:975
+#, fuzzy
 msgid "Please enter a number between %1$s and %2$s."
-msgstr ""
+msgstr "％1 $ sから％2 $ sの間の数字を入力してください。"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1146
 msgid "Street Address"
