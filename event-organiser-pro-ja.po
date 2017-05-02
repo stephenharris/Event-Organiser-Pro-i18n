@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:21:12+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:21:17+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -448,7 +448,7 @@ msgstr "選択されたチケットは、現在利用できません。"
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:401
 msgid "File is not a json file"
-msgstr ""
+msgstr "ファイルはjsonファイルではありません"
 
 #: admin/bookings.php:410
 #: admin/includes/event_ticket_table.php:25
