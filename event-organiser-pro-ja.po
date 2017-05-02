@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:47:55+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:48:06+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1611,7 +1611,7 @@ msgstr "予約フォーム"
 
 #: admin/includes/templates/booking-filters.php:73
 msgid "Booking ID:"
-msgstr ""
+msgstr "予約ID:"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:29
 msgid "This form element allows the user to select their ticket(s). It cannot be removed but can be placed anywhere in the booking form."
