@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:34:56+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:34:58+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1246,7 +1246,7 @@ msgstr "枚数"
 #: admin/bookings.php:685
 #: admin/bookings.php:707
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: admin/settings.php:290
 msgid "If enabled, this will form the body of the e-mail instructing the bookee on how to make payment"
