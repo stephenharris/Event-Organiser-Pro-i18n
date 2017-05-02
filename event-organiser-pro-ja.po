@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:37:23+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:37:28+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1464,7 +1464,7 @@ msgstr "テキスト（入力欄なし）"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:220
 msgid "Toggle display the selected element's settings"
-msgstr ""
+msgstr "選択した要素の設定を表示/非表示"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:736
 #: admin/js/booking-form.js:476
