@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:50:57+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:51:06+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1966,7 +1966,7 @@ msgstr "PayPalのメール"
 
 #: includes/form-customiser/class-eo-booking-form-element-factory.php:116
 msgid "No element ID provided"
-msgstr ""
+msgstr "提供された要素IDはありません"
 
 #: includes/register.php:204
 msgid "View all cities"
