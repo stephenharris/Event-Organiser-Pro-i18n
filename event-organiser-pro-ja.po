@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:21:40+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:23:58+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -436,7 +436,7 @@ msgstr "新しいフォームを追加"
 
 #: admin/edit.php:147
 msgid "Ticket availability"
-msgstr "チケットの利用可否"
+msgstr "チケット"
 
 #: admin/bookings.php:458
 msgid "The following bookings could not be automatically confirmed. Please confirm these manually:"
