@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:48:35+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:48:52+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1748,7 +1748,7 @@ msgstr "住所に使う項目"
 
 #: admin/includes/shortcode_popup.php:165
 msgid "You can view the full range of attributes for these shortcodes on the <a href=\"%s\" target=\"_blank\">plug-in website</a>"
-msgstr ""
+msgstr "これらのショートコードの属性は、<a href=\"%s\" target=\"_blank\">プラグインWebサイト</a>ですべて表示できます"
 
 #: admin/settings.php:229
 msgid "China"
