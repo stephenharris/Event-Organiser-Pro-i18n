@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:18:04+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:18:22+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -210,7 +210,7 @@ msgstr "予約の確認"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:235
 msgid "Open shorcut help"
-msgstr ""
+msgstr "ショーカットヘルプを開く"
 
 #: admin/bookings.php:138
 msgid "You do not have permission to delete bookings"
