@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:25:14+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:25:32+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -513,7 +513,7 @@ msgstr "有効にすると、予約が行われた直後にe-mailがbookeeに送
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:408
 msgid "Invalid json file"
-msgstr ""
+msgstr "無効なjsonファイル"
 
 #: admin/bookings.php:825
 #: admin/calendar.php:101
