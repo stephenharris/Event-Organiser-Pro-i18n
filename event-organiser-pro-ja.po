@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:16:44+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:16:50+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -151,7 +151,7 @@ msgstr "名前を入力してください"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1209
 msgid "Please enter a city"
-msgstr ""
+msgstr "都市を入力してください"
 
 #: admin/bookings.php:27
 #: admin/bookings.php:30
