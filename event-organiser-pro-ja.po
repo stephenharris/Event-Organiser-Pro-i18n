@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:37:28+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:37:33+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1470,7 +1470,7 @@ msgstr "選択した要素の設定を表示/非表示"
 #: admin/js/booking-form.js:476
 #: admin/js/booking-form.js:480
 msgid "Hook"
-msgstr ""
+msgstr "フック"
 
 #: admin/includes/event_booking_table.php:615
 msgid "2. CSV Export Settings"
