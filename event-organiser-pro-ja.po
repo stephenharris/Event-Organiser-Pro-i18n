@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T14:42:26+00:00\n"
+"PO-Revision-Date: 2017-05-02T14:42:38+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -424,7 +424,7 @@ msgstr "予約内容を表示"
 
 #: admin/js/booking-form.js:131
 msgid "Notice classes"
-msgstr "通知クラス"
+msgstr "クラスを通知"
 
 #: admin/bookings.php:142
 msgid "Error in deleting booking."
