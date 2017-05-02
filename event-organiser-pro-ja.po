@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:24:32+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:25:04+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -476,7 +476,6 @@ msgid "Booking #%s could not be cancelled."
 msgstr "予約 #%s はキャンセルできません。"
 
 #: admin/edit.php:44
-#, fuzzy
 msgid "Price (%s)"
 msgstr "価格 (%s)"
 
@@ -510,7 +509,7 @@ msgstr "ユーザ「%s」の予約"
 
 #: admin/settings.php:278
 msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
-msgstr ""
+msgstr "有効にすると、予約が行われた直後にe-mailがbookeeに送信されます。予約が確定した後に送信される電子メールについては、下記の「電子メール」を参照してください。"
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:408
 msgid "Invalid json file"
