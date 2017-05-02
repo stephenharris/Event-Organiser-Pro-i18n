@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:27:58+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:28:05+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -865,7 +865,7 @@ msgstr "予約を削除"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:225
 msgid "Deleted selected element"
-msgstr ""
+msgstr "選択した要素を削除しました"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:3
 msgid "You can add additional fields to your booking form using the buttons to the right, and then arrange them by dragging the fields. Click the added form field to reveal its options "
