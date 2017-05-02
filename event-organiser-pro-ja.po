@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:47:38+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:47:55+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1567,7 +1567,6 @@ msgid "Search"
 msgstr "検索"
 
 #: includes/form-customiser/class-eo-booking-form-element-factory.php:119
-#, fuzzy
 msgid "The element ID \"%s\" is not allowed"
 msgstr "要素ID\"%s\" は許可されていません"
 
@@ -1577,7 +1576,7 @@ msgstr "予約をキャンセルするためにはログインを行ってくだ
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1210
 msgid "Please enter a state / province"
-msgstr ""
+msgstr "都道府県を入力してください"
 
 #: admin/js/booking-form.js:764
 msgid "Simple Booking Mode only comes into effect if:<ul><li>This option is selected.</li><li>The event has only one ticket currently on sale.</li><li>You are booking by series, or the event is non-recurring (no date needs to be selected).</li></ul>Under those conditions the date and ticket selection is hidden from the booking form, and the booking consist of only one ticket."
