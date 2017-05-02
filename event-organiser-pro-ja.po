@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:20:00+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:20:09+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -396,7 +396,7 @@ msgstr "パスワードを忘れましたか？"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:28
 msgid "Import form"
-msgstr ""
+msgstr "Import form"
 
 #: admin/settings.php:338
 msgid "In the e-mail template you can use booking information placeholders"
