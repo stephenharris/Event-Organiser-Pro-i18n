@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:48:23+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:48:31+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1740,7 +1740,7 @@ msgstr "予約をキャンセル"
 #: includes/bookable/class-event.php:52
 #, fuzzy
 msgid "%s: only %d spaces remaining"
-msgstr "％s：残りのスペースは％d個だけです"
+msgstr "%s: 残りのスペースは％d個だけです"
 
 #: admin/js/booking-form.js:404
 msgid "Address includes"
