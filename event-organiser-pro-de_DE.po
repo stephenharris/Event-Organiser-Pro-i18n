@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:40:03+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:40:17+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1626,7 +1626,6 @@ msgid "Booking ID:"
 msgstr ""
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:29
-#, fuzzy
 msgid "This form element allows the user to select their ticket(s). It cannot be removed but can be placed anywhere in the booking form."
 msgstr "Dieses Form Element ermöglicht es dem Benutzer sein Ticket zu wählen. Es kann nicht entfernt aber an jeder beliebigen Stelle im Buchungsformular platziert werden."
 
