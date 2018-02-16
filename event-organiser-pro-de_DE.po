@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:57:07+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:57:24+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1580,7 +1580,7 @@ msgstr "Suchen"
 
 #: includes/form-customiser/class-eo-booking-form-element-factory.php:119
 msgid "The element ID \"%s\" is not allowed"
-msgstr ""
+msgstr "Die Element-ID \"%s\" ist nicht erlaubt"
 
 #: includes/booking-actions.php:744
 msgid "You must be logged in to cancel bookings."
