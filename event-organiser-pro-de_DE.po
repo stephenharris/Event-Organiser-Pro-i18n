@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:41:05+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:41:20+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1871,7 +1871,7 @@ msgid "Booking"
 msgstr "Buchung"
 
 #: admin/edit.php:220
-#, php-format,fuzzy
+#, php-format
 msgid "Cap booking at %s places"
 msgstr "Buchungen auf %s Orte beschränken"
 
