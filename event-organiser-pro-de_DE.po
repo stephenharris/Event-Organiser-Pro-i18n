@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:53:00+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:53:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -809,7 +809,7 @@ msgstr "Optionen"
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:159
 #, fuzzy
 msgid "Toggle Panel: %s"
-msgstr "Umschaltfläche: % s"
+msgstr "Umschaltfläche: %s"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1011
 #: includes/form-customiser/class-eo-booking-form-element.php:1020
@@ -948,7 +948,6 @@ msgstr "Die Wiederholung für den Event, für den die Buchung erfolgt ist, exist
 
 #. /TRANSLATORS: [event] (starts on [date]) - appears in Booking admin screen
 #: admin/bookings.php:814
-#, fuzzy
 msgid "%s (starts on %s)"
 msgstr "%s (beginnt am %s)"
 
