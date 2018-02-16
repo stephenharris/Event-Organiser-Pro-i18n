@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:50:03+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:50:16+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -676,7 +676,7 @@ msgstr "Buchungsformular"
 
 #: includes/booking-form-handler.php:159
 msgid "Already registered? <a href=\"#\" class=\"eo-booking-login-toggle\">Log-in</a>."
-msgstr ""
+msgstr "Bereits registriert? <a href=\"#\" class=\"eo-booking-login-toggle\"> Anmelden </a>."
 
 #: admin/edit.php:148
 msgid "You can specify a date when this ticket will go on sale, and when it is no longer available for purchase. Leave blank for no restriction. Tickets will automatically come off sale when the event starts"
