@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T09:18:26+00:00\n"
+"PO-Revision-Date: 2018-02-16T09:18:48+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1543,7 +1543,6 @@ msgid "Return to form"
 msgstr "Zurück zum Formular"
 
 #: includes/booking-form-handler.php:165
-#, fuzzy
 msgid "Not got an account? <a href=\"#\" class=\"eo-booking-no-account-toggle\">Click here</a>."
 msgstr "Haben Sie kein Konto?  <a href=\"#\" class=\"eo-booking-no-account-toggle\">Klicken Sie hier </a>."
 
@@ -2049,7 +2048,7 @@ msgstr ""
 
 #: admin/edit.php:224
 msgid "Do not cap"
-msgstr ""
+msgstr "Nicht verschließen"
 
 #: includes/functions.php:754
 #: includes/shortcodes.php:354
