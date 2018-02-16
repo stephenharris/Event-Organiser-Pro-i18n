@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T09:01:17+00:00\n"
+"PO-Revision-Date: 2018-02-16T09:01:35+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1376,7 +1376,7 @@ msgstr "Dies zeigt die verfügbare Menge von diesem Ticket-Typ an. Wenn Sie Tick
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:381
 msgid "You do not have permission to import forms."
-msgstr ""
+msgstr "Sie sind nicht berechtigt, Formulare zu importieren."
 
 #: admin/settings.php:232
 msgid "Italy"
