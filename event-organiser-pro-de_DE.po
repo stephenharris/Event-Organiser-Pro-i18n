@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:49:12+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:50:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -623,7 +623,7 @@ msgstr "Dieses Formularelement kann nicht gelöscht werden"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:45
 msgid "This form element will not appear if the user is logged in."
-msgstr ""
+msgstr "Dieses Formularelement wird nicht angezeigt, wenn der Benutzer angemeldet ist."
 
 #: admin/js/booking-form.js:415
 #: admin/js/booking-form.js:422
