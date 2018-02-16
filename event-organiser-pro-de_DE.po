@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T09:21:16+00:00\n"
+"PO-Revision-Date: 2018-02-16T09:21:32+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1752,7 +1752,7 @@ msgstr "Buchungen stornieren"
 
 #: includes/bookable/class-event.php:52
 msgid "%s: only %d spaces remaining"
-msgstr ""
+msgstr "%s: Nur noch%d Leerzeichen"
 
 #: admin/js/booking-form.js:404
 msgid "Address includes"
