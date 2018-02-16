@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:53:10+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:53:19+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -807,7 +807,6 @@ msgid "Options"
 msgstr "Optionen"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:159
-#, fuzzy
 msgid "Toggle Panel: %s"
 msgstr "Umschaltfläche: %s"
 
@@ -824,7 +823,7 @@ msgstr "Zurück zur Tabellenansicht"
 #: includes/bookable/class-event.php:145
 #, fuzzy
 msgid "Ticket with ID %s does not exist."
-msgstr "icket mit ID% s existiert nicht."
+msgstr "icket mit ID %s existiert nicht."
 
 #: admin/includes/event_booking_table.php:159
 #: includes/bookings.php:331
