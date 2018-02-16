@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:36:47+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:37:06+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -473,7 +473,7 @@ msgid "From"
 msgstr "Von"
 
 #: includes/shortcodes.php:132
-#, fuzzy,php-format
+#, php-format
 msgid "Booking #%s could not be cancelled."
 msgstr "Die Buchung #%s konnte nicht storniert werden."
 
@@ -494,7 +494,7 @@ msgstr "Buchungen für Event &#8220;%s&#8220; (%s)"
 #: admin/settings.php:205
 #, fuzzy
 msgid "PayPal page style"
-msgstr "PayPal Seiten Stil"
+msgstr "PayPal-Seitenformat"
 
 #: includes/register.php:110
 msgid "Edit Booking Forms"
