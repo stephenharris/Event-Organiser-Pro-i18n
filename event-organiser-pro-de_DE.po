@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:56:10+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:56:26+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1726,7 +1726,7 @@ msgid "Create an account (optional)"
 msgstr "Konto anlegen (optional)"
 
 #: admin/includes/event_booking_table.php:694
-#, php-format,fuzzy
+#, php-format
 msgid "<strong>Note:</strong> your hosting provider may limit the number of e-mails you can send in a 24 hour period. Plug-ins are available that <a href=\"%s\" target=\"_blank\">work around these restrictions.</a>"
 msgstr "<strong> Hinweis: </strong>Ihr Hosting-Provider kann die Anzahl der E-Mails, die Sie in einem Zeitraum von 24 Stunden senden dürfen, begrenzen. Zur Verfügung stehende <a href =\"%s\"target =\" _blank \">Plug-ins</a>, um dies zu umgehen."
 
