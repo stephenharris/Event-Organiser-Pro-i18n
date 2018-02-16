@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:39:20+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:39:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1252,7 +1252,6 @@ msgstr "Deaktivieren"
 
 #: admin/edit.php:41
 #: admin/edit.php:128
-#, fuzzy
 msgid "Spaces"
 msgstr "Platzhalter"
 
@@ -1368,7 +1367,6 @@ msgid "A new booking has been made on your site %site_name%:"
 msgstr ""
 
 #: admin/includes/venues.php:166
-#, fuzzy
 msgid "Add Custom Field"
 msgstr "Hinzufügen eines benutzerdefinierten Feldes"
 
