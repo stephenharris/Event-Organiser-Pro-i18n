@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:55:03+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:55:30+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -271,7 +271,7 @@ msgstr "Buchung anzeigen"
 #: admin/settings.php:215
 #, php-format,fuzzy
 msgid "PayPal allows you to tailor the booking payment page to you site. For more information, <a href=\"%s\" target=\"_blank\">see this tutorial</a>"
-msgstr "PayPal ermöglicht es Ihnen, die Zahlungsseite anzupassen. Für weitere Informationen, <a href = \" %s \"target = \" _blank \"> sehen Sie bitte dieses Tutorial</a>."
+msgstr "PayPal ermöglicht es Ihnen, die Zahlungsseite anzupassen. Für weitere Informationen, <a href =\"%s\" target =\"_blank \"> sehen Sie bitte dieses Tutorial</a>."
 
 #: admin/includes/event_booking_table.php:477
 msgid "Go to the next page"
