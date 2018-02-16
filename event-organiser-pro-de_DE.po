@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:50:44+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:51:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -807,8 +807,9 @@ msgid "Options"
 msgstr "Optionen"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:159
+#, fuzzy
 msgid "Toggle Panel: %s"
-msgstr ""
+msgstr "Umschaltfläche:% s"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1011
 #: includes/form-customiser/class-eo-booking-form-element.php:1020
