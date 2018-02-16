@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:35:33+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:35:43+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -99,7 +99,6 @@ msgid "You can <a href=\"%s\" target=\"_blank\">create your own e-mail templates
 msgstr "Sie können <a href = \" %s \"target = \" _blank \"> Ihre eigene E-Mail-Vorlagen erstellen</a> und zu Ihrem Theme hinzufügen."
 
 #: admin/bookings.php:915
-#, fuzzy
 msgid "Show gateway response"
 msgstr "Gateway-Antwort anzeigen"
 
