@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:38:52+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:38:55+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1091,7 +1091,6 @@ msgid "Element type not given"
 msgstr ""
 
 #: admin/settings.php:155
-#, fuzzy
 msgid "Allow Logged-out Users to place bookings?"
 msgstr "Abgemeldeten Benutzern erlauben, Buchungen zu tätigen?"
 
@@ -1161,7 +1160,6 @@ msgid "Searching for bookee &#8220;%s&#8221;"
 msgstr "Nach Teilnehmer &#8220;%s&#8221; suchen"
 
 #: admin/includes/event_booking_table.php:340
-#, fuzzy
 msgid "Download tickets"
 msgstr "Tickets herunterladen"
 
