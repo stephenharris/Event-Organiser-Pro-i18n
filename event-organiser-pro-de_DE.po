@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T09:16:17+00:00\n"
+"PO-Revision-Date: 2018-02-16T09:16:49+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1242,7 +1242,7 @@ msgstr "Buchung (# %d )"
 
 #: admin/edit.php:17
 msgid "If you edit the event's dates you will need to update any event tickets. If you remove a date, any bookings for that date will be ignored until you re-assign them an event date."
-msgstr ""
+msgstr "Wenn Sie die Termine der Veranstaltung bearbeiten, müssen Sie alle Veranstaltungstickets aktualisieren. Wenn Sie ein Datum entfernen, werden Buchungen für dieses Datum ignoriert, bis Sie ihnen ein Ereignisdatum zuweisen."
 
 #: admin/settings.php:188
 #: admin/settings.php:254
