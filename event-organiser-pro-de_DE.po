@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:41:28+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:41:32+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1955,7 +1955,6 @@ msgid "I have read and agree to the terms and conditions detailed above."
 msgstr "Ich habe die oben genannten Bedingungen gelesen und akzeptiert."
 
 #: admin/includes/shortcode_popup.php:133
-#, fuzzy
 msgid "Allow your users to search events. Select which filters they can use."
 msgstr "Lassen Sie Ihre Benutzer nach Veranstaltungen suchen. Wählen Sie, welche Filter sie verwenden können."
 
