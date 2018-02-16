@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:37:23+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:37:30+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -492,7 +492,6 @@ msgid "Bookings for event &#8220;%s&#8221; (%s)"
 msgstr "Buchungen für Event &#8220;%s&#8220; (%s)"
 
 #: admin/settings.php:205
-#, fuzzy
 msgid "PayPal page style"
 msgstr "PayPal-Seitenformat"
 
@@ -603,9 +602,8 @@ msgid "This email is already registered, please choose another one or log-in wit
 msgstr "Diese E-Mail ist bereits registriert, bitte wählen Sie eine andere oder logge Sie sich mit diesem Konto ein"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:764
-#, fuzzy
 msgid "Section Break"
-msgstr "Section Break"
+msgstr "Seitenumbruch"
 
 #: admin/settings.php:267
 msgid "This will appear on the booking form, informing the bookee on how to make payment."
