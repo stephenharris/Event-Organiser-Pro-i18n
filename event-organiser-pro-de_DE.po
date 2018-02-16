@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:34:30+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:34:38+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -200,7 +200,6 @@ msgstr ""
 
 #: includes/form-customiser/class-eo-booking-form-element.php:621
 #: admin/js/booking-form.js:739
-#, fuzzy
 msgid "Textarea"
 msgstr "Textfeld"
 
@@ -217,7 +216,6 @@ msgid "Open shorcut help"
 msgstr ""
 
 #: admin/bookings.php:138
-#, fuzzy
 msgid "You do not have permission to delete bookings"
 msgstr "Sie haben nicht die Berechtigung Buchungen zu löschen."
 
