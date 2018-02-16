@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:56:26+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:56:30+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1655,7 +1655,7 @@ msgstr "Höhe: "
 
 #: includes/form-customiser/class-eo-booking-form-element.php:925
 msgid "Please provide a last name"
-msgstr ""
+msgstr "Bitte geben Sie einen Nachnamen an"
 
 #: admin/settings.php:174
 msgid "A new booking is made"
