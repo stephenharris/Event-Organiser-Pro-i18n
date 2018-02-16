@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:46:21+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:47:54+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -514,7 +514,7 @@ msgstr "Buchungen für den Benutzer &#8220;%s&#8221;"
 
 #: admin/settings.php:278
 msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
-msgstr ""
+msgstr "Wenn diese Option aktiviert ist, wird sofort eine E-Mail an die Teilnehmer gesendet, nachdem die Buchung erfasst wurde. Für die E-Mail, die gesendet wird, nachdem eine Buchung bestätigt wurde, lesen Sie den Abschnitt \"E-Mail\" unten."
 
 #: includes/form-customiser/class-eo-booking-form-controller.php:408
 msgid "Invalid json file"
