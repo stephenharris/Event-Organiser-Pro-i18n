@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:39:25+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:40:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1607,7 +1607,6 @@ msgid "Width:"
 msgstr "Breite:"
 
 #: admin/includes/event_booking_table.php:609
-#, fuzzy
 msgid "Select booking fields to be included in export"
 msgstr "Wählen Sie die Buchungs-Felder, die in den Export aufgenommen werden sollen"
 
