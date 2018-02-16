@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-02-16T08:37:50+00:00\n"
+"PO-Revision-Date: 2018-02-16T08:38:20+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -652,7 +652,6 @@ msgid "Preview Email"
 msgstr "Vorschau Email"
 
 #: includes/booking-actions.php:492
-#, fuzzy
 msgid "The payment gateway you have chosen is invalid"
 msgstr "Die Zahlungsart, die Sie gewählt haben ist ungültig"
 
@@ -942,7 +941,6 @@ msgid "Phone"
 msgstr "Telefon"
 
 #: admin/bookings.php:480
-#, fuzzy
 msgid "The occurrence date for which this booking was made no longer exists."
 msgstr "Die Wiederholung für den Event, für den die Buchung erfolgt ist, existiert nicht mehr."
 
