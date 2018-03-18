@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:41:20+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:41:26+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1144,7 +1144,7 @@ msgstr "Wert"
 msgid "%s booking"
 msgid_plural "%s bookings"
 msgstr[0] "%s Buchung"
-msgstr[1] ""
+msgstr[1] "%s Buchungen"
 
 #: admin/includes/shortcode_popup.php:72
 msgid "Time format"
