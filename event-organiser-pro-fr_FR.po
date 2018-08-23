@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-08-23T22:23:29+00:00\n"
+"PO-Revision-Date: 2018-08-23T22:23:36+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -295,7 +295,7 @@ msgstr "Référence de réservation"
 
 #: admin/js/booking-form.js:1001
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "raccourci clavier"
 
 #: admin/bookings.php:846
 #: includes/class-eo-export-csv.php:166
