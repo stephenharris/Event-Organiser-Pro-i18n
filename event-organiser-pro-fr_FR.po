@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-08-23T22:19:04+00:00\n"
+"PO-Revision-Date: 2018-08-23T22:19:26+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1513,7 +1513,7 @@ msgstr "Tous les pays"
 
 #: admin/js/booking-form.js:1137
 msgid "Form deleted"
-msgstr ""
+msgstr "Formulaire supprimé"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:905
 #: templates/booking-form/eo-booking-form-name.php:33
