@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-08-23T22:23:15+00:00\n"
+"PO-Revision-Date: 2018-08-23T22:23:18+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1003,7 +1003,7 @@ msgstr "Afficher un calendrier des événements, semblable au calendrier d'admin
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:240
 msgid "Save the current form"
-msgstr ""
+msgstr "Enri"
 
 #: admin/js/booking-form.js:613
 msgid "Min"
