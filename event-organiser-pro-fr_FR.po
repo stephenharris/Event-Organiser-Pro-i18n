@@ -8,13 +8,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2018-08-23T22:20:48+00:00\n"
+"PO-Revision-Date: 2018-08-23T22:21:09+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #: admin/bookings.php:700
 msgid "Edit email"
-msgstr "Editer email"
+msgstr "Modifier email"
 
 #: admin/js/booking-form.js:130
 msgid "Error classes"
@@ -1804,7 +1804,7 @@ msgstr "Prix :"
 #: admin/includes/event_booking_table.php:308
 #: admin/includes/event_booking_table.php:312
 msgid "Filter"
-msgstr ""
+msgstr "Filtrer"
 
 #: admin/settings.php:319
 msgid "Custom Templates"
