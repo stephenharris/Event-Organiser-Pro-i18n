@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:21:12+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:21:25+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -499,7 +499,7 @@ msgstr "Messico"
 
 #: admin/includes/event_booking_table.php:82
 msgid "Delete Booking"
-msgstr ""
+msgstr "Elimina prenotazione"
 
 #: admin/bookings.php:950
 msgid "Bookings for user &#8220;%s&#8221;"
