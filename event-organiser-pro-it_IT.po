@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:21:25+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:21:51+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -530,7 +530,7 @@ msgstr "Capacità"
 
 #: admin/settings.php:161
 msgid "Yes but do not register an account"
-msgstr ""
+msgstr "Sì, ma non registrare un account"
 
 #: admin/includes/shortcode_popup.php:78
 #: admin/includes/shortcode_popup.php:116
