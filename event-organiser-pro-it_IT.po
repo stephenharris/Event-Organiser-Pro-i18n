@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:29:42+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:30:02+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1689,7 +1689,7 @@ msgstr "Non hai fatto alcuna prenotazione"
 #: includes/booking-actions.php:740
 #: includes/booking-actions.php:777
 msgid "You do not have permission to cancel this booking."
-msgstr ""
+msgstr "Non hai il permesso di cancellare questa prenotazione."
 
 #: admin/includes/ajax-actions.php:261
 msgid "Please provide a custom field name."
