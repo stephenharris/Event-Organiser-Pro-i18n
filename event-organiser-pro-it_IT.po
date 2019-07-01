@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:18:29+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:19:08+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -236,7 +236,7 @@ msgstr "Si prega di inserire un paese"
 
 #: admin/edit.php:109
 msgid "Ticket name:"
-msgstr ""
+msgstr "Nome del biglietto"
 
 #: admin/includes/templates/booking-filters.php:84
 msgid "Booked between:"
