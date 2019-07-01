@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:33:18+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:33:49+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1990,7 +1990,7 @@ msgstr "Nessuna prenotazione trovata"
 
 #: admin/edit.php:140
 msgid "Tickets on sale:"
-msgstr ""
+msgstr "Biglietti in vendita:"
 
 #: admin/includes/venues.php:145
 msgid "&mdash; Select &mdash;"
