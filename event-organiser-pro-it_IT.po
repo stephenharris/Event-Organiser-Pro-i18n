@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:14:12+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:14:24+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1570,7 +1570,7 @@ msgstr ""
 
 #: includes/booking-actions.php:744
 msgid "You must be logged in to cancel bookings."
-msgstr ""
+msgstr "Devi essere registrato per cancellare le prenotazioni."
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1210
 msgid "Please enter a state / province"
