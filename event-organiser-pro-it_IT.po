@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:03:45+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:12:41+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: includes/booking-form-handler.php:165
 msgid "Not got an account? <a href=\"#\" class=\"eo-booking-no-account-toggle\">Click here</a>."
-msgstr ""
+msgstr "Non hai un account? <a href=\"#\" class=\"eo-booking-no-account-toggle\"> Fai clic qui </a>."
 
 #: admin/bookings.php:412
 #: admin/bookings.php:603
