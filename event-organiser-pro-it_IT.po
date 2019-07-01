@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:12:51+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:14:12+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -571,7 +571,7 @@ msgstr "Nessun Forms di prenotazione trovato"
 
 #: includes/form-customiser/class-eo-booking-form-view.php:190
 msgid "You are logged in as <strong>%s</strong>. <a href=\"%s\">Not you?</a>"
-msgstr "Sei Loggato come <strong>%s</strong>. <a href=\"%s\">Non sei tu?</a>"
+msgstr "Sei loggato come <strong>%s</strong>. <a href=\"%s\">Non sei tu?</a>"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:24
 msgid "Select a form to edit:"
