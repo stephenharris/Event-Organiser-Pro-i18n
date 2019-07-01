@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:29:24+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:29:42+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1651,7 +1651,7 @@ msgstr "Una nuova prenotazione è stato creato"
 #: admin/includes/event_booking_table.php:80
 #: includes/shortcodes.php:111
 msgid "Cancel booking"
-msgstr ""
+msgstr "Cancella la prenotazione"
 
 #: admin/includes/shortcode_popup.php:156
 msgid "Date range"
