@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:23:02+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:23:08+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -675,7 +675,7 @@ msgstr "Tu puoi specificare una data che indica quando questo ticket andrà in v
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1211
 msgid "Please enter a zip / postal code"
-msgstr ""
+msgstr "Si prega di inserire un codice postale"
 
 #: admin/includes/event_booking_table.php:32
 msgid "No bookings found."
