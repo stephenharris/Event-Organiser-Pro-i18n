@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:32:39+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:33:18+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1934,7 +1934,7 @@ msgstr "Registrazione Fallita. Per favore contatta un <a href=\"mailto:%s\">ammi
 #: includes/form-customiser/class-eo-booking-form-element.php:803
 #: admin/js/booking-form.js:723
 msgid "I have read and agree to the terms and conditions detailed above."
-msgstr ""
+msgstr "Ho letto e accetto i termini e le condizioni sopra riportati."
 
 #: admin/includes/shortcode_popup.php:133
 msgid "Allow your users to search events. Select which filters they can use."
