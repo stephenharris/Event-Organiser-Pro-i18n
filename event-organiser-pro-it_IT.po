@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:31:44+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:31:58+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1837,7 +1837,7 @@ msgstr "Grazie per la tua prenotazione. A breve riceverai una e-mail contenente 
 
 #: admin/bookings.php:85
 msgid "Error in cancelling the booking."
-msgstr ""
+msgstr "Errore nell'annullare la prenotazione."
 
 #: includes/gateways.php:168
 msgid "Thank you for registering"
