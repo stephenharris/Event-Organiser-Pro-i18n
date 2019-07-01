@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:14:24+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:15:38+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -114,7 +114,7 @@ msgstr ""
 
 #: includes/booking-actions.php:752
 msgid "This booking can no longer be cancelled."
-msgstr ""
+msgstr "Questa prenotazione non può più essere cancellata."
 
 #: admin/edit.php:59
 msgid "Add Ticket"
