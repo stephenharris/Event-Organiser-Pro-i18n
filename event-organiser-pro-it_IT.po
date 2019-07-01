@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:15:38+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:15:55+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -147,7 +147,7 @@ msgstr "Modifica Prenotazioni"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:921
 msgid "Please provide a first name"
-msgstr ""
+msgstr "Si prega di fornire un nome"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1209
 msgid "Please enter a city"
