@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2019-07-01T08:19:50+00:00\n"
+"PO-Revision-Date: 2019-07-01T08:20:38+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -462,7 +462,7 @@ msgstr "Ref."
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1207
 msgid "Please enter a street address."
-msgstr ""
+msgstr "Si prega di inserire un indirizzo."
 
 #: includes/functions.php:757
 #: includes/shortcodes.php:357
