@@ -8,17 +8,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-27T14:36:40+00:00\n"
-"PO-Revision-Date: 2016-11-27T14:41:41+00:00\n"
+"PO-Revision-Date: 2018-08-23T22:24:05+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #: admin/bookings.php:700
 msgid "Edit email"
-msgstr ""
+msgstr "Modifier email"
 
 #: admin/js/booking-form.js:130
 msgid "Error classes"
-msgstr "Error classes"
+msgstr "Classes d'erreur"
 
 #: admin/bookings.php:657
 msgid "User not found"
@@ -62,10 +62,6 @@ msgstr "Si coché, un menu de sélection déroulant est utilisé pour sélection
 #: includes/register.php:108
 msgid "Add New"
 msgstr "Ajouter nouveau"
-
-#: admin/includes/shortcode_popup.php:66
-msgid "Month"
-msgstr "Mois"
 
 #: includes/register.php:112
 #: includes/register.php:117
@@ -145,7 +141,7 @@ msgstr "Merci de sélectionner un événement."
 
 #: admin/includes/templates/booking-filters.php:47
 msgid "Status:"
-msgstr ""
+msgstr "Status"
 
 #: includes/register.php:51
 msgid "Edit Bookings"
@@ -178,10 +174,6 @@ msgstr "Nouvelle réservation d'événements"
 #: admin/js/booking-form.js:501
 msgid "Include second name"
 msgstr "Ajouter un deuxième nom"
-
-#: admin/includes/venues.php:10
-msgid "Custom Fields"
-msgstr "Champs personnalisés"
 
 #: admin/settings.php:222
 msgid "PayPal Local Site"
@@ -216,7 +208,7 @@ msgstr "Événements se terminant avant"
 
 #: admin/includes/event_booking_table.php:513
 msgid "Confirm Bookings"
-msgstr ""
+msgstr "Confirmez réservation"
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:235
 msgid "Open shorcut help"
@@ -303,7 +295,7 @@ msgstr "Référence de réservation"
 
 #: admin/js/booking-form.js:1001
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "raccourci clavier"
 
 #: admin/bookings.php:846
 #: includes/class-eo-export-csv.php:166
@@ -335,10 +327,6 @@ msgstr ""
 #: templates/eo-booking-form.php:19
 msgid "Bookings are no longer available for this event."
 msgstr "Les réservations ne sont plus disponibles pour cet événement."
-
-#: includes/register.php:298
-msgid "Hide dates"
-msgstr "Masquer les dates"
 
 #: admin/settings.php:160
 msgid "Yes, account is optional"
@@ -525,14 +513,6 @@ msgstr "Effacer une réservation"
 msgid "Bookings for user &#8220;%s&#8221;"
 msgstr "Les réservations pour l'utilisateur \"%s s\""
 
-#: admin/includes/shortcode_popup.php:144
-#: includes/form-customiser/class-eo-booking-form-element.php:1148
-#: includes/shortcodes.php:283
-#: templates/booking-form/eo-booking-form-address.php:61
-#: admin/js/booking-form.js:408
-msgid "City"
-msgstr "Ville"
-
 #: admin/settings.php:278
 msgid "If enabled an e-mail is sent to the bookee immediately after the booking is made. For the e-mail sent after a booking is confirmed, see the \"Email\" section below."
 msgstr ""
@@ -564,10 +544,6 @@ msgstr "Oui mais ne pas créer de compte utilisateur"
 #: admin/includes/shortcode_popup.php:116
 msgid "Include tooltip"
 msgstr "Inclure info-bulle"
-
-#: includes/utility-functions.php:476
-msgid "Dismiss this notice"
-msgstr "Ignorer cette notification"
 
 #: templates/booking-form/eo-booking-form-address.php:24
 #: admin/js/booking-form.js:406
@@ -617,12 +593,6 @@ msgstr ""
 #: includes/booking-actions.php:463
 msgid "Please select a ticket."
 msgstr "Sélectionnez un billet s'il-vous plaît."
-
-#: admin/bookings.php:676
-#: admin/bookings.php:699
-#: admin/edit.php:86
-msgid "Edit"
-msgstr "Modifier"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:813
 msgid "Antispam maths question"
@@ -775,7 +745,7 @@ msgstr "La valeur entrée n'est pas un nombre"
 
 #: admin/includes/templates/booking-filters.php:29
 msgid "Select a date"
-msgstr ""
+msgstr "Choisir une dqte"
 
 #: admin/bookings.php:787
 msgid "Change"
@@ -804,11 +774,6 @@ msgstr "Supprimer l'image en vedette"
 msgid "Booking Form Name"
 msgstr "Nom du formulaire de réservation"
 
-#: admin/includes/shortcode_popup.php:140
-#: includes/functions.php:731
-msgid "Venue"
-msgstr "Lieu"
-
 #: templates/eo-email-template-blue.php:31
 #: templates/eo-email-template-distinct.php:31
 #: templates/eo-email-template-event-organiser.php:31
@@ -825,11 +790,6 @@ msgstr "Message"
 #: templates/eo-booking-form.php:59
 msgid "Username / Email"
 msgstr "Nom d'utilisateur / Email"
-
-#: admin/includes/event_booking_table.php:56
-#: admin/includes/shortcode_popup.php:64
-msgid "View"
-msgstr "Voir"
 
 #: admin/bookings.php:955
 #, php-format
@@ -865,10 +825,6 @@ msgstr "Retour à la vue tableau"
 msgid "Ticket with ID %s does not exist."
 msgstr ""
 
-#: features/bootstrap/FeatureContext.php:434
-msgid "Main Sidebar"
-msgstr ""
-
 #: admin/includes/event_booking_table.php:159
 #: includes/bookings.php:331
 #: includes/class-eo-export-csv.php:264
@@ -879,10 +835,6 @@ msgstr "Y / m / dg: i: s A"
 #: admin/includes/event_booking_table.php:450
 msgid "Go to the first page"
 msgstr "Aller à la première page"
-
-#: admin/settings.php:69
-msgid "None"
-msgstr "Aucun"
 
 #: admin/settings.php:46
 msgid "Manage other events' bookings"
@@ -905,7 +857,7 @@ msgstr "Nom"
 #: admin/js/booking-form.js:124
 #: admin/js/booking-form.js:493
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:1208
 msgid "Please enter the second line of the address."
@@ -914,10 +866,6 @@ msgstr "Merci d'entrer la seconde ligne d'adresse"
 #: includes/utility-functions.php:477
 msgid "Dismiss"
 msgstr "Ignorer"
-
-#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:230
-msgid "Close modal"
-msgstr ""
 
 #: admin/includes/event_booking_table.php:518
 msgid "Delete Bookings"
@@ -986,11 +934,6 @@ msgstr "Erreur lors de la restauration de la réservation"
 msgid "United States"
 msgstr "États-Unis"
 
-#: includes/class-eo-user-attending-widget.php:24
-#: admin/js/booking-form.js:129
-msgid "Title"
-msgstr "Titre"
-
 #: includes/form-customiser/class-eo-booking-form-element.php:991
 #: includes/form-customiser/class-eo-booking-form-element.php:1000
 #: admin/js/booking-form.js:620
@@ -1011,15 +954,6 @@ msgstr "%s (débute le %s)"
 #: admin/settings.php:238
 msgid "Switzerland"
 msgstr "Suisse"
-
-#: admin/bookings.php:686
-#: admin/bookings.php:708
-#: admin/includes/event_booking_table.php:646
-#: admin/includes/event_booking_table.php:706
-#: admin/includes/venues.php:156
-#: includes/shortcodes.php:81
-msgid "Cancel"
-msgstr "Annuler"
 
 #: templates/eo-ticket-picker.php:40
 msgid "Please select a date"
@@ -1054,10 +988,6 @@ msgstr "C'est utilisé uniquement pour vous aider à identifier le formulaire pr
 msgid "What is x + y?"
 msgstr "Que font x + y ?"
 
-#: admin/includes/shortcode_popup.php:109
-msgid "Venues"
-msgstr "Lieux"
-
 #: includes/form-customiser/templates/admin-view/eo-booking-form-elements-templates.php:25
 msgid "This form element only appears if there there are multiple gateways enabled. It cannot be removed but can be placed anywhere in the booking form."
 msgstr "Cet élément de formulaire apparaît seulement si il existe plusieurs passerelles activées. Il ne peut pas être supprimé mais peut être placé n'importe où dans le formulaire de réservation."
@@ -1073,7 +1003,7 @@ msgstr "Afficher un calendrier des événements, semblable au calendrier d'admin
 
 #: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:240
 msgid "Save the current form"
-msgstr ""
+msgstr "Enregister le formulaire"
 
 #: admin/js/booking-form.js:613
 msgid "Min"
@@ -1099,10 +1029,6 @@ msgstr ""
 #: admin/settings.php:235
 msgid "Philippines"
 msgstr "Philippines"
-
-#: admin/settings.php:158
-msgid "No"
-msgstr "Non"
 
 #: includes/booking-actions.php:311
 msgid "A new booking has been confirmed on your site %site_name%:"
@@ -1256,14 +1182,6 @@ msgstr "Montrer seulement les événements auxquels participe cet utilisateur"
 msgid "Select all"
 msgstr "Sélectionner tous"
 
-#: features/bootstrap/FeatureContext.php:436
-msgid "Widgets in this area will be shown on all posts and pages."
-msgstr ""
-
-#: admin/settings.php:24
-msgid "General"
-msgstr "Général"
-
 #: includes/class-eo-export-csv.php:168
 #: includes/class-eo-export-csv.php:314
 msgid "Booking Status"
@@ -1300,10 +1218,6 @@ msgstr "Royaume-Uni"
 #: admin/includes/templates/booking-filters.php:81
 msgid "Remove filter"
 msgstr "Supprimer le filtre"
-
-#: admin/includes/shortcode_popup.php:68
-msgid "Day"
-msgstr "Journée"
 
 #: admin/includes/event_ticket_table.php:23
 #: includes/class-eo-export-csv.php:311
@@ -1348,7 +1262,7 @@ msgstr "Places"
 #: admin/bookings.php:685
 #: admin/bookings.php:707
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: admin/settings.php:290
 msgid "If enabled, this will form the body of the e-mail instructing the bookee on how to make payment"
@@ -1472,17 +1386,6 @@ msgstr "Vous n'avez pas l'autorisation d'importer des formulaires"
 #: admin/settings.php:232
 msgid "Italy"
 msgstr "Italie"
-
-#: admin/bookings.php:408
-#: admin/bookings.php:804
-#: admin/bookings.php:817
-#: includes/class-eo-export-csv.php:158
-#: includes/class-eo-export-csv.php:304
-#: includes/functions.php:681
-#: includes/shortcodes.php:192
-#: templates/event-booking-history.php:17
-msgid "Event"
-msgstr "Événement"
 
 #: admin/js/booking-form.js:1853
 msgid "Form element deleted"
@@ -1610,7 +1513,7 @@ msgstr "Tous les pays"
 
 #: admin/js/booking-form.js:1137
 msgid "Form deleted"
-msgstr ""
+msgstr "Formulaire supprimé"
 
 #: includes/form-customiser/class-eo-booking-form-element.php:905
 #: templates/booking-form/eo-booking-form-name.php:33
@@ -1709,10 +1612,6 @@ msgstr "Cet élément de formulaire pose une simple question de mathématiques a
 msgid "Width:"
 msgstr "Largeur:"
 
-#: includes/register.php:302
-msgid "Minute"
-msgstr "Minute"
-
 #: admin/includes/event_booking_table.php:609
 msgid "Select booking fields to be included in export"
 msgstr "Sélectionnez les champs de réservation devant être inclus dans l'exportation"
@@ -1727,14 +1626,6 @@ msgstr "<strong>ERREUR</strong>: Remplissez tous les champs obligatoires s'il vo
 #: admin/settings.php:10
 msgid "Booking Form"
 msgstr "Formulaire de réservation"
-
-#: includes/register.php:301
-msgid "Hour"
-msgstr "Heure"
-
-#: admin/settings.php:55
-msgid "Role"
-msgstr "Rôle"
 
 #: admin/includes/templates/booking-filters.php:73
 msgid "Booking ID:"
@@ -1797,11 +1688,6 @@ msgstr "Boutons radio"
 #: includes/register.php:50
 msgid "Add New Booking"
 msgstr "Ajouter une nouvelle réservation"
-
-#: includes/form-customiser/templates/admin-view/eo-booking-form-templates.php:47
-#: includes/register.php:485
-msgid "Settings"
-msgstr "Réglages"
 
 #: admin/includes/event_booking_table.php:633
 msgid "Text delimiter "
@@ -1866,10 +1752,6 @@ msgstr ""
 msgid "Reserve Pending Tickets"
 msgstr "Réserver des billets en attente"
 
-#: includes/register.php:297
-msgid "Show dates"
-msgstr "Montrer les dates"
-
 #: admin/includes/event_booking_table.php:511
 msgid "Cancel Bookings"
 msgstr "Annuler les Réservations"
@@ -1900,7 +1782,7 @@ msgstr "Conditions générales"
 
 #: admin/bookings.php:677
 msgid "Edit name"
-msgstr ""
+msgstr "Modifier nom"
 
 #: admin/js/booking-form.js:761
 #: admin/js/booking-form.js:763
@@ -1911,24 +1793,9 @@ msgstr "Mode de Réservation Simple"
 msgid "Hidden"
 msgstr "Masqué"
 
-#: admin/includes/shortcode_popup.php:152
-#: includes/form-customiser/class-eo-booking-form-element.php:1151
-#: includes/shortcodes.php:327
-#: templates/booking-form/eo-booking-form-address.php:121
-#: admin/js/booking-form.js:411
-msgid "Country"
-msgstr "Pays"
-
 #: admin/bookings.php:903
 msgid "Gateway Response"
 msgstr "Réponse de la passerelle"
-
-#: includes/form-customiser/class-eo-booking-form-element.php:1133
-#: includes/form-customiser/class-eo-booking-form-element.php:1138
-#: admin/js/booking-form.js:394
-#: admin/js/booking-form.js:395
-msgid "Address"
-msgstr "Adresse"
 
 #: admin/edit.php:115
 msgid "Price:"
@@ -1937,7 +1804,7 @@ msgstr "Prix :"
 #: admin/includes/event_booking_table.php:308
 #: admin/includes/event_booking_table.php:312
 msgid "Filter"
-msgstr ""
+msgstr "Filtrer"
 
 #: admin/settings.php:319
 msgid "Custom Templates"
@@ -1956,11 +1823,6 @@ msgstr "Vous devez être connecté pour placer une réservation"
 msgid "Ticket picker"
 msgstr "Sélectionneur de billets"
 
-#: includes/shortcodes.php:510
-#: templates/user-attending-widget-event-list.php:41
-msgid "on"
-msgstr "actif"
-
 #: admin/settings.php:26
 #: includes/gateways.php:57
 msgid "Offline Payment"
@@ -1977,10 +1839,6 @@ msgstr ""
 #: includes/register.php:116
 msgid "No Booking Forms found in Trash"
 msgstr "Pas de formulaire de réservation trouvé dans la corbeille"
-
-#: includes/class-eo-user-attending-widget.php:28
-msgid "Number of events"
-msgstr "Nombre d'événements"
 
 #: admin/settings.php:106
 msgid "Currency"
@@ -2048,18 +1906,6 @@ msgstr "Adresse (rue) :"
 #: admin/js/booking-form.js:464
 msgid "Gateway picker"
 msgstr "Sélectionneur de passerelle"
-
-#: admin/bookings.php:411
-#: includes/class-eo-export-csv.php:159
-#: includes/class-eo-export-csv.php:305
-#: includes/form-customiser/class-eo-booking-form-element.php:835
-#: includes/form-customiser/class-eo-booking-form-element.php:864
-#: templates/eo-ticket-picker.php:24
-#: templates/event-booking-history.php:16
-#: admin/js/booking-form.js:547
-#: admin/js/booking-form.js:548
-msgid "Date"
-msgstr "Date"
 
 #: admin/edit.php:169
 msgid "Bookings will be closed when an occurrences starts."
@@ -2159,11 +2005,6 @@ msgstr "Voir tous les états"
 msgid "Book"
 msgstr "Réserver"
 
-#: admin/edit.php:90
-#: admin/includes/venues.php:280
-msgid "Delete"
-msgstr "Supprimer"
-
 #: admin/bookings.php:715
 msgid "View bookee profile"
 msgstr ""
@@ -2175,10 +2016,6 @@ msgstr "Pas de réservation trouvée"
 #: admin/edit.php:140
 msgid "Tickets on sale:"
 msgstr "Tickets en vente :"
-
-#: admin/includes/shortcode_popup.php:67
-msgid "Week"
-msgstr "Semaine"
 
 #: admin/includes/venues.php:145
 msgid "&mdash; Select &mdash;"
